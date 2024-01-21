@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "039f640ab8fa6e12",
+        "id": "3f359be806c14248",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e1d48bbaa653a6",
+            "id": "bf7394046fbc8de7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-22.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,51 +87,27 @@
             }
           },
           {
-            "id": "527c0fc565ba0e71",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2024-01-22.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a02220ddd6e24ff6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "2024-01-22.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "84bca9724fa5fa5b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-01-22.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "43660b2e84649734",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,10 +119,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d8e1d48bbaa653a6",
+  "active": "84bca9724fa5fa5b",
   "lastOpenFiles": [
+    "Calendar/2024-01-15.md",
+    "Calendar/2024-01-22.md",
+    "Calendar/2024-01-23.md",
+    "무제 폴더",
+    "2024-W04.md",
     "Java Study/History Study/Java History.md",
-    "2024-01-22.md",
+    "Calendar",
     "기타/Git 명령어.md",
     "conflict-files-obsidian-git.md",
     "Java Study/History Study/Java History.canvas",
@@ -173,7 +150,6 @@
     "기타",
     "aws 정리/yhj.md",
     "무제 파일 1.canvas",
-    "today",
-    "aws 정리"
+    "today"
   ]
 }

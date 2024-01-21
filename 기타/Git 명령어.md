@@ -1,5 +1,5 @@
 
-## 저장소 올리기 1
+## 저장소 올리기 
 ```Git
 echo "# test" >> README.md
 git init

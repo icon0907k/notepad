@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "586f3288489da337",
+        "id": "2966951123a9149e",
         "type": "tabs",
         "children": [
           {
-            "id": "a9933f229679cd88",
+            "id": "5d8850a1b20eedf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기타/Git 명령어.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기타/Git 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기타/Git 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "기타/Git 명령어.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,12 +139,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a9933f229679cd88",
+  "active": "5d8850a1b20eedf7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "기타/HTTP.md",
+    "기타/Git 명령어.md",
     "Java Study/History Study/Java History.md",
     "Java Study/History Study/Java History.canvas",
-    "기타/Git 명령어.md",
-    "기타/HTTP.md",
     "Java Study/History Study/2. JDK 1.1(1997년 2월)/내부 클래스 Inner Classes.md",
     "Java Study/History Study/2. JDK 1.1(1997년 2월)/JDBC (Java Database Connectivity).md",
     "Java Study/History Study/2. JDK 1.1(1997년 2월)/리플렉션(Reflection).md",

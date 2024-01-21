@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2966951123a9149e",
+        "id": "5bf3cd4908bf2a83",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8850a1b20eedf7",
+            "id": "f5617659837e3bde",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ],
@@ -139,19 +147,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5d8850a1b20eedf7",
+  "active": "f5617659837e3bde",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "기타/HTTP.md",
-    "기타/Git 명령어.md",
     "Java Study/History Study/Java History.md",
     "Java Study/History Study/Java History.canvas",
-    "Java Study/History Study/2. JDK 1.1(1997년 2월)/내부 클래스 Inner Classes.md",
-    "Java Study/History Study/2. JDK 1.1(1997년 2월)/JDBC (Java Database Connectivity).md",
-    "Java Study/History Study/2. JDK 1.1(1997년 2월)/리플렉션(Reflection).md",
-    "Java Study/History Study/2. JDK 1.1(1997년 2월)/JavaBeans.md",
-    "today/2024-01-08.md",
     "Java Study/History Study/2. JDK 1.1(1997년 2월)/RMI (Remote Method Invocation).md",
+    "Java Study/History Study/2. JDK 1.1(1997년 2월)/JDBC (Java Database Connectivity).md",
+    "Java Study/History Study/2. JDK 1.1(1997년 2월)/JavaBeans.md",
+    "Java Study/History Study/2. JDK 1.1(1997년 2월)/리플렉션(Reflection).md",
+    "Java Study/History Study/2. JDK 1.1(1997년 2월)/내부 클래스 Inner Classes.md",
+    "기타/HTTP.md",
+    "기타/Git 명령어.md",
+    "today/2024-01-08.md",
     "Java Study/History Study/3. J2SE 1.2(1998년 12월)",
     "Java Study/History Study/JDK 1.1(1997년 2월)/Java IDL (Interface Definition Language).md",
     "Java Study/History Study/1. JDK 1.0(1996년1월)",

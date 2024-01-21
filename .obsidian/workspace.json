@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3f359be806c14248",
+        "id": "32cbf2640e2764d8",
         "type": "tabs",
         "children": [
           {
-            "id": "bf7394046fbc8de7",
+            "id": "ec5485962fe7e8f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java Study/History Study/Java History.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -87,14 +91,6 @@
             }
           },
           {
-            "id": "84bca9724fa5fa5b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "43660b2e84649734",
             "type": "leaf",
             "state": {
@@ -119,18 +115,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "84bca9724fa5fa5b",
+  "active": "fd944b9485cf77e4",
   "lastOpenFiles": [
+    "Java Study/History Study/Java History.canvas",
+    "Java Study/History Study/Java History.md",
+    "2024-01-22.md",
+    "2024-01-23.md",
     "Calendar/2024-01-15.md",
     "Calendar/2024-01-22.md",
     "Calendar/2024-01-23.md",
     "무제 폴더",
     "2024-W04.md",
-    "Java Study/History Study/Java History.md",
     "Calendar",
     "기타/Git 명령어.md",
     "conflict-files-obsidian-git.md",
-    "Java Study/History Study/Java History.canvas",
     "Java Study/History Study/2. JDK 1.1(1997년 2월)/RMI (Remote Method Invocation).md",
     "Java Study/History Study/2. JDK 1.1(1997년 2월)/JDBC (Java Database Connectivity).md",
     "Java Study/History Study/2. JDK 1.1(1997년 2월)/JavaBeans.md",

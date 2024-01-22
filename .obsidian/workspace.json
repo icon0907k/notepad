@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Study/History Study/2. JDK 1.1(1997년 2월)/RMI (Remote Method Invocation).md",
+                "file": "Java Study/History Study/Java History.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,6 +110,45 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "6e3490e3c781e270",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java Study/History Study/Java History.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0d16f6b1d1b27ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java Study/History Study/Java History.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70cbeeded91fb9a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java Study/History Study/Java History.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -130,13 +169,13 @@
   },
   "active": "471ce9716e579653",
   "lastOpenFiles": [
+    "Java Study/History Study/2. JDK 1.1(1997년 2월)/RMI (Remote Method Invocation).md",
     "Java Study/History Study/2. JDK 1.1(1997년 2월)/JDBC (Java Database Connectivity).md",
     "Java Study/History Study/Java History.md",
     "기타/Roadmap.md",
     "Java Study/History Study/Java History.canvas",
     "Java Study/History Study/2. JDK 1.1(1997년 2월)/내부 클래스 Inner Classes.md",
     "무제 폴더",
-    "Java Study/History Study/2. JDK 1.1(1997년 2월)/RMI (Remote Method Invocation).md",
     "2024-01-22.md",
     "2024-01-23.md",
     "Calendar/2024-01-15.md",

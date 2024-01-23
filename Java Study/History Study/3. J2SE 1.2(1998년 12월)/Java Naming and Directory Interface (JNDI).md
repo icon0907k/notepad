@@ -20,10 +20,10 @@ public class LDAPExample {
         // LDAP 연결 설정
         Hashtable<String, String> env = new Hashtable<>();
         env.put(Context.INITIAL_CONTEXT_FACTORY, "com.sun.jndi.ldap.LdapCtxFactory");
-        env.put(Context.PROVIDER_URL, "ldap://your-ldap-server-url");
+        env.put(Context.PROVIDER_URL, "ldap://ldap-server-url");
         env.put(Context.SECURITY_AUTHENTICATION, "simple");
-        env.put(Context.SECURITY_PRINCIPAL, "your-ldap-username");
-        env.put(Context.SECURITY_CREDENTIALS, "your-ldap-password");
+        env.put(Context.SECURITY_PRINCIPAL, "ldap-username");
+        env.put(Context.SECURITY_CREDENTIALS, "ldap-password");
         try {
             // LDAP 서버에 연결
             DirContext context = new InitialContext(env);

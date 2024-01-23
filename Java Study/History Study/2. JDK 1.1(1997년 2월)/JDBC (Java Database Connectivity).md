@@ -17,13 +17,13 @@ public class JDBCTest {
         }
         
         // 데이터베이스 연결 정보 설정
-        String url = "jdbc:mysql://localhost:3306/your_database";
-        String username = "your_username";
-        String password = "your_password";
+        String url = "jdbc:mysql://localhost:3306/database";
+        String username = "username";
+        String password = "password";
         
         // 데이터베이스 연결
         try (Connection connection = DriverManager.getConnection(url, username, password)) {
-            System.out.println("Connected to the database!");
+            System.out.println("Connected to the database!!!!!");
             
             // 여기서부터 데이터베이스 작업 수행
             // 예를 들어, 쿼리 실행, 데이터 읽기/쓰기 등
@@ -40,7 +40,7 @@ public class JDBCTest {
 ```java
 // 위의 코드에 이어서...
 try (Connection connection = DriverManager.getConnection(url, username, password)) {
-    System.out.println("Connected to the database!");
+    System.out.println("Connected to the database!!!!");
 
     // 쿼리 실행을 위한 Statement 생성
     try (Statement statement = connection.createStatement()) {

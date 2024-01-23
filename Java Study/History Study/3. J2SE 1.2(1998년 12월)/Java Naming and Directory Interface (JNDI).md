@@ -52,3 +52,7 @@ public class LDAPExample {
     }
 }
 ```
+
+위 소스 코드 설명 
+- `Hashtable`을 사용하여 LDAP 연결에 필요한 환경 속성을 설정한다.
+- `Context.INITIAL_CONTEXT_FACTORY`  

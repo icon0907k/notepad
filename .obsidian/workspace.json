@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c793d0bd2a3a4f5",
+        "id": "a53fe5bcc0001724",
         "type": "tabs",
         "children": [
           {
-            "id": "dd1dae2fe8c096bb",
+            "id": "75bfe75820c67402",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Study/History Study/Java History.md",
+                "file": "Java Study/History Study/3. J2SE 1.2(1998년 12월)/Java Naming and Directory Interface (JNDI).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3168bc2156fe4df7",
@@ -91,21 +92,19 @@
             }
           },
           {
-            "id": "84bca9724fa5fa5b",
+            "id": "b5317770be5853db",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Java Study/History Study/Java History.md"
-              }
+              "type": "calendar",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -117,11 +116,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dd1dae2fe8c096bb",
+  "active": "75bfe75820c67402",
   "lastOpenFiles": [
+    "2024-01-01.md",
+    "Java Study/History Study/Java History.md",
     "2024-W04.md",
     "Java Study/History Study/3. J2SE 1.2(1998년 12월)/Java Naming and Directory Interface (JNDI).md",
-    "Java Study/History Study/Java History.md",
     "Java Study/History Study/3. J2SE 1.2(1998년 12월)/컬렉션 프레임워크.md",
     "Java Study/History Study/Java History.canvas",
     "Java Study/History Study/2. JDK 1.1(1997년 2월)/내부 클래스 Inner Classes.md",

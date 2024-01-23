@@ -47,7 +47,7 @@ J2SE 1.2에서는 AWT(Abstract Window Toolkit) 이외에 Swing이라 불리는 �
 ### 3. 자바 2D 그래픽스 API
 그림 및 이미지 처리를 위한 자바 2D 그래픽스 API가 추가되었다.
 ### 4. 자바 스탠다드 에디션 명칭 등장
-이 버전부터 Java의 버전 명명 규칙이 바뀌어서 "Java 2"로 통합되었습니다. 이에 따라 J2SE(Java 2 Standard Edition) 명칭이 처음 등장했습니다.
+이 버전부터 Java의 버전 명명 규칙이 바뀌어서 "Java 2"로 통합되었다. 이에 따라 J2SE(Java 2 Standard Edition) 명칭이 처음 등장했다.
 ### 5. Java Naming and Directory Interface (JNDI)
-J2SE 1.2에서는 JNDI가 도입되어 분산 환경에서 네이밍 및 디렉터리 서비스에 접근하기 위한 표준 API가 추가되었습니다.
+J2SE 1.2에서는 JNDI가 도입되어 분산 환경에서 네이밍 및 디렉터리 서비스에 접근하기 위한 표준 API가 추가되었다.
 

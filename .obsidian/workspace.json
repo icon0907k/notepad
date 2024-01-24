@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Study/History Study/3. J2SE 1.2(1998년 12월)/Java Naming and Directory Interface (JNDI).md",
+                "file": "Java Study/History Study/Java History.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3168bc2156fe4df7",
@@ -118,8 +117,8 @@
   },
   "active": "75bfe75820c67402",
   "lastOpenFiles": [
-    "Java Study/History Study/2. JDK 1.1(1997년 2월)/JDBC (Java Database Connectivity).md",
     "Java Study/History Study/3. J2SE 1.2(1998년 12월)/Java Naming and Directory Interface (JNDI).md",
+    "Java Study/History Study/2. JDK 1.1(1997년 2월)/JDBC (Java Database Connectivity).md",
     "2024-01-01.md",
     "Java Study/History Study/Java History.md",
     "2024-W04.md",

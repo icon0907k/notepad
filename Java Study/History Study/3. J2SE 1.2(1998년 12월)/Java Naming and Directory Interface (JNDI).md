@@ -55,6 +55,6 @@ public class LDAPExample {
 
 위 소스 코드 설명 
 - `Hashtable`을 사용하여 LDAP 연결에 필요한 환경 속성을 설정한다.
-- `Context.INITIAL_CONTEXT_FACTORY`  JNDI를 초기화하는 데 사용되는 팩토리 클래스이다.
+- `Context.INITIAL_CONTEXT_FACTORY`  JNDI를 초기화하는 데 사용되는 팩토리 클래스(다른 클래스의 객체를 생성하는 클래스)이다.
 - `Constext.PROVIDER_URL` LDAP 서버의 URL
 - ``

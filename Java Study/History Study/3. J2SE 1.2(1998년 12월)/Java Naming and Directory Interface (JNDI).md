@@ -163,3 +163,27 @@ public class JNDIDemo {
     }
 }
 ```
+
+위 소스 코드 설명
+
+- `InitialContext`를 사용하여 JNDI 컨텍스트를 초기화합니다.
+2. **DataSource 검색:**
+    
+    - `java:/comp/env`를 통해 환경 컨텍스트를 얻어옵니다.
+    - `jdbc/myDB`를 사용하여 등록된 DataSource를 찾아옵니다.
+3. **Connection 얻기:**
+    
+    - 얻어온 DataSource를 사용하여 Connection 객체를 획득합니다.
+4. **SQL 쿼리 실행:**
+    
+    - Connection으로부터 Statement를 얻어옵니다.
+    - `executeQuery` 메서드를 사용하여 SQL 쿼리를 실행하고 ResultSet을 얻어옵니다.
+5. **결과 출력:**
+    
+    - ResultSet을 반복하여 각 행의 데이터를 출력합니다.
+6. **리소스 해제:**
+    
+    - 사용이 끝난 ResultSet, Statement, Connection 등의 리소스를 안전하게 해제합니다.
+7. **예외 처리:**
+    
+    - `NamingException`과 `SQLException`에 대한 예외 처리를 수행합니다.

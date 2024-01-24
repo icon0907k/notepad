@@ -27,9 +27,9 @@ JDK 1.1에는 JavaBeans 지원이 포함되어 있다. JavaBeans는 재사용 �
 JDK 1.1에서는 리플렉션 API가 도입되었으며, 개발자들은 런타임 중에 클래스, 메서드, 필드 등을 검사하고 조작할 수 있다.
 ### 4. [[JDBC (Java Database Connectivity)]]
 JDK 1.1에는 관계형 데이터베이스에 연결하기 위한 표준 Java 인터페이스를 제공하는 JDBC의 초기 버전이 포함되어 있다. JDBC는 Java 애플리케이션이 데이터베이스와 상호 작용하기 쉽게 만들어주었다.
-### 5.[[RMI (Remote Method Invocation)]]
+### 5. [[RMI (Remote Method Invocation)]]
 JDK 1.1은 RMI 기능을 향상시켰으며, Java 객체가 원격 기계에 있는 객체의 메서드를 호출할 수 있도록 했다. 이것은 분산 및 네트워크 애플리케이션을 구축하는 데 중요한 기능이다.
-### 6.Java IDL (Interface Definition Language)
+### 6. Java IDL (Interface Definition Language)
 Java IDL API가 도입 Java IDL API는 Java 언어로 작성된 객체가 CORBA (Common Object Request Broker Architecture) 표준과 상호 작용할 수 있도록 하는 API이다.
 CORBA는 분산 컴퓨팅 환경에서 객체 간 통신을 위한 표준 아키텍처이다. 객체 지향 시스템에서의 상호 작용을 위한 표준화된 방법을 제공하여 다양한 플랫폼 및 언어 간에 투명한 원격 호출을 가능케 했다.
 
@@ -54,11 +54,11 @@ HotSpot은 Java 가상 머신(JVM)의 일종으로, 코드를 실행하는 데 �
 
 ### 2. 자바 API 개선
 이 버전에서는 다양한 API에 대한 개선이 이루어졌습니다. 새로운 클래스와 메서드가 추가되었으며, 기존의 클래스와 메서드도 업데이트되었다.
-### 3.[[Java Naming and Directory Interface (JNDI)]]
+### 3. [[Java Naming and Directory Interface (JNDI)]]
 JNDI는 서비스를 검색하고 제공하는 데 사용되는 API이다. J2SE 1.3에서는 JNDI에 대한 업데이트가 이루어져 더 효과적인 디렉토리 및 서비스 검색이 가능해졌다.
 ### 4. Java Naming Service Provider Interface (JNDI SPI)
 JNDI SPI는 JNDI의 확장을 위한 인터페이스를 제공한다. 이를 통해 사용자 정의 디렉토리 서비스 제공자를 만들고 통합할 수 있다.
-### 5.  Java 2D API의 개선
-J2SE 1.3에서는 그래픽 처리와 출력을 담당하는 Java 2D API에 대한 성능 개선과 새로운 기능이 도입되었습니다.
+### 5. Java 2D API의 개선
+J2SE 1.3에서는 그래픽 처리와 출력을 담당하는 Java 2D API에 대한 성능 개선과 새로운 기능이 도입되었다.
 ### 6. 컨테이너 이벤트 모델 
-J2SE 1.3에서는 컴포넌트 이벤트 처리를 위한 새로운 모델이 추가되었습니다.
+J2SE 1.3에서는 컴포넌트 이벤트 처리를 위한 새로운 모델(Java Swing API에 도입된 것으로 예상)이 추가되었다.

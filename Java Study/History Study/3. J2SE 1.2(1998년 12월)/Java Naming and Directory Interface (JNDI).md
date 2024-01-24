@@ -57,4 +57,8 @@ public class LDAPExample {
 - `Hashtable`을 사용하여 LDAP 연결에 필요한 환경 속성을 설정한다.
 - `Context.INITIAL_CONTEXT_FACTORY`  JNDI를 초기화하는 데 사용되는 팩토리 클래스(다른 클래스의 객체를 생성하는 클래스)이다.
 - `Constext.PROVIDER_URL` LDAP 서버의 URL
-- ``
+- `Constext.SECURITY_AUTHENTICATION` 인증 방법 (여기서는 "simple" 즉, 기본 인증 사용).
+- `SECURITY_PRINCIPAL`LDAP 서버에 로그인하는 데 사용되는 사용자 이름.
+- `SECURITY_CREDENTIALS`사용자 비밀번호.
+- `DirContext context = new InitialContext(env);`LDAP 서버에 연결.
+- `InitialContext`를 사용하여 LDAP 서버에 연결.

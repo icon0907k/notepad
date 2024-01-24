@@ -61,4 +61,6 @@ public class LDAPExample {
 - `SECURITY_PRINCIPAL`LDAP 서버에 로그인하는 데 사용되는 사용자 이름.
 - `SECURITY_CREDENTIALS`사용자 비밀번호.
 - `DirContext context = new InitialContext(env);`LDAP 서버에 연결.
-- `InitialContext`를 사용하여 LDAP 서버에 연결.
+- `InitialContext`를 사용하여 LDAP 서버에 연결. (  InitialContext 는 자바 Naming and Directory Interface (JNDI) 에서 제공하는 클래스로, 디렉토리 서비스에 연결하고 객체를 검색하는 데 사용)
+- `DirContext`는 디렉터리 서비스에 대한 컨텍스트를 나타낸다.
+- 

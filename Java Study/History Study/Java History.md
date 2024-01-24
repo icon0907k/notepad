@@ -18,7 +18,7 @@ java 애플리케이션을 실행할 때 필요한 최소한의 환경을 제공
 ## JDK 1.1(1997년 2월)
 
 ### 1. [[내부 클래스 Inner Classes]]
-##### JDK 1.1에서는 내부 클래스 개념이 도입되었다. 
+ JDK 1.1에서는 내부 클래스 개념이 도입되었다. 
 이를 통해서 개발자들은 다른 클래스 내에 클래스를 정의할 수 있게 되었다. 내부 클래스는 캡슐화와 코드 구성에 유용할 수 있다.	
 
 ### 2. [[JavaBeans]]
@@ -33,12 +33,7 @@ JDK 1.1은 RMI 기능을 향상시켰으며, Java 객체가 원격 기계에 있
 Java IDL API가 도입 Java IDL API는 Java 언어로 작성된 객체가 CORBA (Common Object Request Broker Architecture) 표준과 상호 작용할 수 있도록 하는 API이다.
 CORBA는 분산 컴퓨팅 환경에서 객체 간 통신을 위한 표준 아키텍처이다. 객체 지향 시스템에서의 상호 작용을 위한 표준화된 방법을 제공하여 다양한 플랫폼 및 언어 간에 투명한 원격 호출을 가능케 했다.
 
-## J2SE 1.2(1998년 12월)
-
-J2SE 1.2(Java 2 Standard Edition 1.2)는 1998년 12월에 출시된 Java의 중요한 버전 중 하나이다. 
-이 버전은 JDK(Java Development Kit) 1.2로도 알려져 있다. J2SE 1.2에서는 여러 가지 주요 개선과 새로운 기능이 도입되었다.
-
-주요 특징과 변경 사항은 다음과 같다.
+## J2SE 1.2(Java 2 Standard Edition 1.2 1998년 12월)
 
 ### 1. Swing GUI 라이브러리 도입
 J2SE 1.2에서는 AWT(Abstract Window Toolkit) 이외에 Swing이라 불리는 새로운 GUI 라이브러리가 도입되었다. Swing은 보다 풍부한 그래픽 사용자 인터페이스를 제공하며, 플랫폼 간 일관된 외관을 갖추고 있다.
@@ -51,3 +46,17 @@ J2SE 1.2에서는 AWT(Abstract Window Toolkit) 이외에 Swing이라 불리는 �
 ### 5. [[Java Naming and Directory Interface (JNDI)]]
 J2SE 1.2에서는 JNDI가 도입되어 분산 환경에서 네이밍 및 디렉터리 서비스에 접근하기 위한 표준 API가 추가되었다.
 
+## J2SE 1.3(Java 2 Platform, Standard Edition 1.3 2000년 5월)
+Sun Microsystems가 개발한 Java 프로그래밍 언어의 표준 버전 
+
+1. **HotSpot 가상 머신 개선:** HotSpot은 Java 가상 머신(JVM)의 일종으로, 코드를 실행하는 데 사용됩니다. J2SE 1.3에서는 HotSpot 가상 머신의 안정성과 성능이 향상되었습니다.
+    
+2. **자바 API 개선:** 이 버전에서는 다양한 API에 대한 개선이 이루어졌습니다. 새로운 클래스와 메서드가 추가되었으며, 기존의 클래스와 메서드도 업데이트되었습니다.
+    
+3. **Java Naming and Directory Interface (JNDI):** JNDI는 서비스를 검색하고 제공하는 데 사용되는 API입니다. J2SE 1.3에서는 JNDI에 대한 업데이트가 이루어져 더 효과적인 디렉토리 및 서비스 검색이 가능해졌습니다.
+    
+4. **Java Naming Service Provider Interface (JNDI SPI):** JNDI SPI는 JNDI의 확장을 위한 인터페이스를 제공합니다. 이를 통해 사용자 정의 디렉토리 서비스 제공자를 만들고 통합할 수 있습니다.
+    
+5. **Java 2D API의 개선:** J2SE 1.3에서는 그래픽 처리와 출력을 담당하는 Java 2D API에 대한 성능 개선과 새로운 기능이 도입되었습니다.
+    
+6. **컨테이너 이벤트 모델:** J2SE 1.3에서는 컴포넌트 이벤트 처리를 위한 새로운 모델이 추가되었습니다.

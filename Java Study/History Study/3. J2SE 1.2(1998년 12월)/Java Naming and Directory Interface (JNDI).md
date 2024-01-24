@@ -3,7 +3,7 @@ Java 프로그램이 네트워크 상의 서비스 및 리소스에 대한 정�
 
 예시 코드는 다음과 같다.
 
-## LDAP 
+## LDAP server
 LDAP는 계층적 디렉터리 서비스로 주로 사용자 관리 및 인증, 권한 관리, 네트워크 접근 제어, 보안 등을 저장하는데 활용된다. LDAP은 다양한 분야에서 중요한 역할을 담당하고 있으며, 앞으로도 그 중요성이 지속될 것으로 예상된다. 아래는 LDAP 서버에 연결하고 몇 가지 기본적인 작업을 수행하는 Java 예시 코드이다.
 
 ```java
@@ -94,3 +94,72 @@ while (results.hasMore()) {
 context.close();
 ```
 - 리소스 누수가 발생하므로 LDAP 서버와의 연결은 닫아야 한다.
+
+
+## DB server
+DB 서버에 접속할 때 JNDI를 사용하는 이유는 주로 DB 접속 정보를 코드에 직접 저장하지 않고, WAS(웹 어플리케이션 서버) 서버에 DB 접속 정보를 중앙화하여 저장하고 필요할 때 가져다 사용하기 위함이다. 특히, 대규모 프로젝트에서는 여러 서버 환경에서 운영되는 경우가 많아서, 각각의 서버에 따라 DB 서버가 다르거나 개발 서버, 운영 서버 등이 분리되는 경우가 있다.
+
+JNDI를 사용하면 각 서버에서 DB에 접속할 때 필요한 정보를 WAS 서버에 저장해두고, 애플리케이션은 JNDI를 통해 해당 정보를 참조하여 DB에 접속한다. 이렇게 하면 DB 접속 정보가 애플리케이션 코드에 직접 포함되지 않아서 유지보수가 용이해지며, 서버 간의 이동이나 변경 시에도 코드를 수정하지 않고 설정만 변경하여 간편하게 적용할 수 있다.
+
+소규모 프로젝트에서는 하나의 DB 서버만을 사용하는 경우가 일반적이지만, 대규모 프로젝트에서는 여러 서버 간의 환경이 다양하게 구성되기 때문에 JNDI를 통한 중앙화된 DB 접속 정보 관리가 더욱 필요해진다. 
+
+아래는 JNDI 통해 JDBC 데이터베이스 연결을 사용하여 MySQL 데이터베이스에 연걸하는 예시이다.
+
+**JNDI 설정 파일 (context.xml)**
+```XML
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/myDB" auth="Container" type="javax.sql.DataSource"
+        maxTotal="100" maxIdle="30" maxWaitMillis="10000"
+        username="your_username" password="your_password"
+        driverClassName="com.mysql.cj.jdbc.Driver"
+        url="jdbc:mysql://localhost:3306/your_database"/>
+</Context>
+
+```
+
+**Java 코드**
+```java 
+import javax.naming.Context;
+import javax.naming.InitialContext;
+import javax.naming.NamingException;
+import javax.sql.DataSource;
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class JNDIDemo {
+    public static void main(String[] args) {
+        try {
+            // JNDI 초기화
+            Context initialContext = new InitialContext();
+            Context environmentContext = (Context) initialContext.lookup("java:/comp/env");
+            
+            // DataSource 검색
+            DataSource dataSource = (DataSource) environmentContext.lookup("jdbc/myDB");
+            
+            // Connection 얻기
+            Connection connection = dataSource.getConnection();
+            
+            // SQL 쿼리 실행
+            Statement statement = connection.createStatement();
+            ResultSet resultSet = statement.executeQuery("SELECT * FROM your_table");
+            
+            // 결과 출력
+            while (resultSet.next()) {
+                System.out.println("Column 1: " + resultSet.getString(1));
+                System.out.println("Column 2: " + resultSet.getString(2));
+                // 추가적인 필요에 따라 결과 처리
+            }
+            
+            // 리소스 해제
+            resultSet.close();
+            statement.close();
+            connection.close();
+        } catch (NamingException | SQLException e) {
+            e.printStackTrace();
+        }
+    }
+}
+```

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Study/History Study/Java History.md",
+                "file": "Java Study/History Study/2. J2SE 1.2(1998년 12월)/Java Naming and Directory Interface (JNDI).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb7ab4d6a2963f39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Study/History Study/Java History.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Study/History Study/Java History.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Study/History Study/Java History.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -154,11 +167,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "75bfe75820c67402",
+  "active": "cb7ab4d6a2963f39",
   "lastOpenFiles": [
-    "Java Study/History Study/Java History.canvas",
     "Java Study/History Study/2. J2SE 1.2(1998년 12월)/Java Naming and Directory Interface (JNDI).md",
+    "무제 파일.md",
     "Java Study/History Study/Java History.md",
+    "Java Study/History Study/Java History.canvas",
     "Java Study/History Study/2. J2SE 1.2(1998년 12월)/컬렉션 프레임워크.md",
     "Java Study/History Study/1. JDK 1.1(1997년 2월)/JDBC (Java Database Connectivity).md",
     "2024-01-01.md",

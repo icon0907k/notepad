@@ -115,7 +115,6 @@ JNDI를 사용하면 각 서버에서 DB에 접속할 때 필요한 정보를 WA
         driverClassName="com.mysql.cj.jdbc.Driver"
         url="jdbc:mysql://localhost:3306/your_database"/>
 </Context>
-
 ```
 
 **Java 코드**

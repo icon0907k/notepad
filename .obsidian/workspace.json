@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Study/History Study/2. J2SE 1.2(1998년 12월)/컬렉션 프레임워크.md",
+                "file": "기타/Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Study/History Study/2. J2SE 1.2(1998년 12월)/컬렉션 프레임워크.md",
+                "file": "기타/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Study/History Study/2. J2SE 1.2(1998년 12월)/컬렉션 프레임워크.md",
+                "file": "기타/Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Study/History Study/2. J2SE 1.2(1998년 12월)/컬렉션 프레임워크.md"
+                "file": "기타/Roadmap.md"
               }
             }
           }
@@ -156,9 +156,12 @@
   },
   "active": "75bfe75820c67402",
   "lastOpenFiles": [
+    "기타/Git 명령어.md",
+    "기타/HTTP.md",
+    "기타/Roadmap.md",
+    "Java Study/History Study/2. J2SE 1.2(1998년 12월)/컬렉션 프레임워크.md",
     "Java Study/History Study/2. J2SE 1.2(1998년 12월)/Java Naming and Directory Interface (JNDI).md",
     "Java Study/History Study/1. JDK 1.1(1997년 2월)/JDBC (Java Database Connectivity).md",
-    "Java Study/History Study/2. J2SE 1.2(1998년 12월)/컬렉션 프레임워크.md",
     "Java Study/History Study/1. JDK 1.1(1997년 2월)/리플렉션(Reflection).md",
     "Java Study/History Study/1. JDK 1.1(1997년 2월)/내부 클래스 Inner Classes.md",
     "Java Study/History Study/Java History.md",
@@ -168,10 +171,7 @@
     "무제 파일.md",
     "2024-01-01.md",
     "2024-W04.md",
-    "기타/Git 명령어.md",
     "conflict-files-obsidian-git.md",
-    "기타/Roadmap.md",
-    "기타/HTTP.md",
     "Java Study/History Study/2. J2SE 1.2(1998년 12월)",
     "today/2024-01-08.md",
     "Java Study/History Study/JDK 1.1(1997년 2월)/Java IDL (Interface Definition Language).md",

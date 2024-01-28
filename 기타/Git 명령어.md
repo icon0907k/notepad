@@ -1,6 +1,4 @@
-
 ## 저장소 올리기
-
 
 ```Git
 echo "# test" >> README.md
@@ -13,13 +11,11 @@ git push -u origin main
 
 ```
 
-
 ```Git
 git remote add origin https://github.com/icon0907k/test.git
 git branch -M main
 git push -u origin main
 ```
-
 ## 저장소 가져오기
 ```Git
 git clone https://github.com/choiiis/balanchew.git

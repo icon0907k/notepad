@@ -1,4 +1,4 @@
-J2SE 1.4의 NIO(Non-blocking Input/Output)는 Java의 입출력(IO) 처리를 개선하기 위한 패키지입니다. 기존의 입출력은 스트림(Streams) 기반이었지만, NIO는 채널(Channel)과 버퍼(Buffer)를 중심으로 하는 비동기 입출력 모델을 제공합니다. 이를 통해 입출력 작업을 보다 효율적으로 처리할 수 있게 됩니다.
+J2SE 1.4의 NIO(Non-blocking Input/Output)는 Java의 입출력(IO) 처리를 개선하기 위한 패키지이다. 기존의 입출력은 스트림(Streams) 기반이었지만, NIO는 채널(Channel)과 버퍼(Buffer)를 중심으로 하는 비동기 입출력 모델을 제공한다. 이를 통해 입출력 작업을 보다 효율적으로 처리할 수 있게 된다.
 
 ### NIO의 핵심 구성 요소
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Study/History Study/Java History.md",
+                "file": "Day Planner/2024-02-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Study/History Study/Java History.md",
+                "file": "Day Planner/2024-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Study/History Study/Java History.md",
+                "file": "Day Planner/2024-02-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Study/History Study/Java History.md"
+                "file": "Day Planner/2024-02-06.md"
               }
             }
           }
@@ -157,17 +157,17 @@
   },
   "active": "86b0c1919de697be",
   "lastOpenFiles": [
+    "Day Planner/2024-02-05.md",
+    "Day Planner/2024-02-06.md",
+    "Java Study/History Study/Java History.md",
     "Java Study/History Study/Java History.canvas",
     "Java Study/History Study/2. J2SE 1.2(1998년 12월)/Java Naming and Directory Interface (JNDI).md",
     "Java Study/History Study/2. J2SE 1.2(1998년 12월)/컬렉션 프레임워크.md",
     "기타/Roadmap.md",
     "기타/HTTP.md",
     "기타/Git 명령어.md",
-    "Day Planner/2024-02-06.md",
-    "Day Planner/2024-02-05.md",
     "Java Study/History Study/J2SE 1.4 (2002년 2월/NIO(Non-blocking I,O).md",
     "Day Planner",
-    "Java Study/History Study/Java History.md",
     "Java Study/History Study/J2SE 1.4 (2002년 2월",
     "Java Study/History Study/1. JDK 1.1(1997년 2월)/JDBC (Java Database Connectivity).md",
     "Java Study/History Study/1. JDK 1.1(1997년 2월)/내부 클래스 Inner Classes.md",

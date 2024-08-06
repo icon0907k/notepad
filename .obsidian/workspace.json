@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/자료구조/선형 자료구조/0. 선형 지료구조.md",
+                "file": "Study/자료구조/선형 자료구조/2. 리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,6 +158,45 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "3fb047f6d6bb26e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Study/자료구조/선형 자료구조/2. 리스트.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "335b293d08376478",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Study/자료구조/선형 자료구조/2. 리스트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd6fa371b4a2c241",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Study/자료구조/선형 자료구조/2. 리스트.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -179,13 +218,13 @@
   },
   "active": "79f61026b69cea4c",
   "lastOpenFiles": [
+    "기타/Roadmap.md",
     "Study/자료구조/선형 자료구조/2. 리스트.md",
     "Study/자료구조/선형 자료구조/1. 배열.md",
-    "Study/자료구조/선형 자료구조/0. 선형 지료구조.md",
     "Study/Java/ArrayList vs LinkedList.md",
-    "Day Planner/2024-08-06.md",
-    "기타/Roadmap.md",
     "기타/옵시디언 Git 플러그인 명령어.md",
+    "Study/자료구조/선형 자료구조/0. 선형 지료구조.md",
+    "Day Planner/2024-08-06.md",
     "Study/Java",
     "Study/자료구조/선형 자료구조",
     "Study/자료구조",

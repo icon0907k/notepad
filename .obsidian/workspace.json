@@ -11,8 +11,12 @@
             "id": "88406a42b1d706c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Day Planner/2024-08-06.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -85,64 +89,12 @@
                 "useHierarchy": false
               }
             }
-          },
-          {
-            "id": "b5317770be5853db",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "14764c80c4017cb2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "50b27282caf67b76",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0d9bbb0577b9e938",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "622a5bb1bab30324",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,9 +107,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0d9bbb0577b9e938",
+  "active": "9991122650dcc777",
   "lastOpenFiles": [
-    "2024-08-06.md",
+    "Day Planner/2024-08-06.md",
     "기타/Roadmap.md",
     "기타/Git 명령어.md",
     "기타/HTTP.md",

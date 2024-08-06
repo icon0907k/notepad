@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/자료구조/선형 자료구조/2. 리스트.md",
+                "file": "Study/자료구조/선형 자료구조/0. 선형 지료구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,10 +179,10 @@
   },
   "active": "79f61026b69cea4c",
   "lastOpenFiles": [
-    "Study/자료구조/선형 자료구조/1. 배열.md",
-    "Study/자료구조/선형 자료구조/0. 산향 지료구조.md",
-    "Study/Java/ArrayList vs LinkedList.md",
     "Study/자료구조/선형 자료구조/2. 리스트.md",
+    "Study/자료구조/선형 자료구조/1. 배열.md",
+    "Study/자료구조/선형 자료구조/0. 선형 지료구조.md",
+    "Study/Java/ArrayList vs LinkedList.md",
     "Day Planner/2024-08-06.md",
     "기타/Roadmap.md",
     "기타/옵시디언 Git 플러그인 명령어.md",

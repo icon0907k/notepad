@@ -110,6 +110,45 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d0886e0d91d5dd07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "기타/Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02a471a643aa94c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "기타/Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4aacd6739687cc60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "기타/Roadmap.md"
+              }
+            }
           }
         ],
         "currentTab": 1

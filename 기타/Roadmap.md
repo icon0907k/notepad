@@ -17,4 +17,4 @@
 		3.	해시 테이블
 		•	해시 함수
 		•	충돌 해결 기법 (체이닝, 개방 주소법)
-		ddddfsf
+		ddddfsfdsfdsfdsf

@@ -11,8 +11,12 @@
             "id": "4babce90453c32c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Study/자료구조/1. 선형 자료구조/6. List 인터페이스, Queue 인터페이스, Deque 인터페이스, ArrayList 클래스, LinkedList 클래스, ArrayDeque 클래스.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Study/자료구조/1. 선형 자료구조/6. List 인터페이스, Queue 인터페이스, Deque 인터페이스, ArrayList 클래스, LinkedList 클래스, ArrayDeque 클래스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Study/자료구조/1. 선형 자료구조/6. List 인터페이스, Queue 인터페이스, Deque 인터페이스, ArrayList 클래스, LinkedList 클래스, ArrayDeque 클래스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Study/자료구조/1. 선형 자료구조/6. List 인터페이스, Queue 인터페이스, Deque 인터페이스, ArrayList 클래스, LinkedList 클래스, ArrayDeque 클래스.md"
+              }
             }
           }
         ],

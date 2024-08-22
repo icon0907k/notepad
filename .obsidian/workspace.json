@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20f05485decfe270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기타/Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a60f210c353380a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기타/Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2ab66f804e2f3e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/기초 지식 강화/5. TCP와 UDP의 차이점.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/기초 지식 강화/5. TCP와 UDP의 차이점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/기초 지식 강화/5. TCP와 UDP의 차이점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기타/Roadmap.md"
+                "file": "Study/기초 지식 강화/5. TCP와 UDP의 차이점.md"
               }
             }
           }
@@ -155,11 +192,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4babce90453c32c3",
+  "active": "d2ab66f804e2f3e2",
   "lastOpenFiles": [
-    "Study/기초 지식 강화/2. 시간 복잡도, 공간복잡도.md",
     "기타/Roadmap.md",
+    "Study/기초 지식 강화/5. TCP와 UDP의 차이점.md",
+    "2024-08-22.md",
+    "Study/기초 지식 강화/4. UDP.md",
     "Day Planner/2024/2024-08-23.md",
+    "Study/기초 지식 강화/3. TCP IP.md",
+    "Study/기초 지식 강화/2. 시간 복잡도, 공간복잡도.md",
     "Study/기초 지식 강화/1. 자료구조/2. 비선형 자료구조/0. 비선형 자료구조.md",
     "Study/기초 지식 강화/1. 자료구조/1. 선형 자료구조/0. 선형 지료구조.md",
     "Study/기초 지식 강화",
@@ -189,10 +230,6 @@
     "Day Planner/2024/2024-08-09.md",
     "Day Planner/2024/무제 파일.md",
     "Day Planner/2024/2024-08-06.md",
-    "Day Planner/2024/2024-08-07.md",
-    "Day Planner/2024/2024-08-08.md",
-    "Study/자료구조/선형 자료구조/~$6. ArrayList, LinkedList, ArrayDeque.md",
-    "Study/자료구조/선형 자료구조/~$5. 양방향 큐.md",
     "Pasted image 20240806152512.png",
     "Java Study/History Study/Java History.canvas",
     "무제 파일 1.canvas"

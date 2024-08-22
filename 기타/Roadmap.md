@@ -21,10 +21,18 @@
 			•	충돌 해결 기법 (체이닝, 개방 주소법)
 	2.시간 복잡도 , 공간 복잡도
 	3.TCP/IP
-	 HTTP/HTTPS
-	 DNS
-	 RESTful API 
-	 WebSocket
-	 도메인
+	4.UDP
+	5.TCP와 UDP의 차이점
+	TCP 3-way handshake
+	IP 주소와 서브넷 마스크
+	OSI 7계층
+	OSI 7계층과 TCP/IP 4계층의 비교
+	HTTP/HTTPS
+	DOMAIN
+	DNS
+	RESTful API 
+	WebSocket
+	
+
 
 

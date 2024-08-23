@@ -23,7 +23,7 @@
 	3.TCP/IP
 	4.UDP
 	5.TCP와 UDP의 차이점
-	TCP 3-way handshake
+	6.TCP 3-way handshake
 	IP 주소와 서브넷 마스크
 	OSI 7계층
 	OSI 7계층과 TCP/IP 4계층의 비교

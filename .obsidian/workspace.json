@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/기초 지식 강화/6. TCP 3-way handshake.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f6e51368f576a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/기초 지식 강화/6. TCP 3-way handshake.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0604f01069d33181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/기초 지식 강화/9. IP 주소와 서브넷 마스크.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -153,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/기초 지식 강화/9. IP 주소와 서브넷 마스크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/기초 지식 강화/9. IP 주소와 서브넷 마스크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기타/Roadmap.md"
+                "file": "Study/기초 지식 강화/9. IP 주소와 서브넷 마스크.md"
               }
             }
           }
@@ -204,24 +228,31 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b5b1ce14584052b7",
+  "active": "0604f01069d33181",
   "lastOpenFiles": [
+    "기타/Roadmap.md",
+    "Study/기초 지식 강화/8. OSI 7계층과 TCP IP 4계층의 비교.md",
+    "Study/기초 지식 강화/9. IP 주소와 서브넷 마스크.md",
+    "Study/기초 지식 강화/7. OSI 7계층.md",
+    "Study/기초 지식 강화/5. TCP와 UDP의 차이점.md",
     "Study/기초 지식 강화/6. TCP 3-way handshake.md",
-    "tcp-handshake-1.png",
+    "Day Planner/2024/2024-08-24.md",
+    "Day Planner/2024/2024-08-23.md",
+    "Study/이미지/tcp-handshake-1.png",
+    "Study/이미지",
     "TCP-three-way-handshake.png",
     "steps-of-a-3-way-handshake-for-terminating-the-connection.webp",
-    "기타/Roadmap.md",
-    "Study/기초 지식 강화/5. TCP와 UDP의 차이점.md",
-    "Day Planner/2024/2024-08-23.md",
+    "Study/기초 지식 강화/4. UDP.md",
+    "Study/기초 지식 강화/3. TCP IP.md",
+    "Study/기초 지식 강화/2. 시간 복잡도, 공간복잡도.md",
     "Day Planner/2024/2024-08-16.md",
     "Day Planner/2024/2024-08-15.md",
+    "Day Planner/2024/2024-08-14.md",
     "Day Planner/2024/2024-08-13.md",
-    "Day Planner/2024/2024-08-08.md",
+    "Day Planner/2024/2024-08-09.md",
     "Day Planner/2024/2024-08-07.md",
     "Day Planner/2024/2024-08-06.md",
-    "Study/기초 지식 강화/2. 시간 복잡도, 공간복잡도.md",
-    "Study/기초 지식 강화/3. TCP IP.md",
-    "Study/기초 지식 강화/4. UDP.md",
+    "Day Planner/2024/2024-08-08.md",
     "기타/옵시디언 Git 플러그인 명령어.md",
     "2024-08-22.md",
     "Study/기초 지식 강화/1. 자료구조/2. 비선형 자료구조/0. 비선형 자료구조.md",
@@ -237,13 +268,7 @@
     "Study/PDF 파일/비선형 자료구조 정리.pdf",
     "Study/기초 지식 강화/1. 자료구조/2. 비선형 자료구조/1. 트리.md",
     "Study/기초 지식 강화/1. 자료구조/2. 비선형 자료구조/2. 그래프.md",
-    "Study/기초 지식 강화/1. 자료구조/1. 선형 자료구조/6. List 인터페이스, Queue 인터페이스, Deque 인터페이스, ArrayList 클래스, LinkedList 클래스, ArrayDeque 클래스.md",
     "Study/PDF 파일/3. 해시 테이블.pdf",
-    "Study/PDF 파일/2. 그래프.pdf",
-    "Study/기초 지식 강화/1. 자료구조/1. 선형 자료구조/5. 양방향 큐.md",
-    "Study/기초 지식 강화/1. 자료구조/1. 선형 자료구조/4. 큐.md",
-    "Study/기초 지식 강화/1. 자료구조/1. 선형 자료구조/3. 스택.md",
-    "Study/기초 지식 강화/1. 자료구조/1. 선형 자료구조/2. 리스트.md",
     "Pasted image 20240806152512.png",
     "Java Study/History Study/Java History.canvas",
     "무제 파일 1.canvas"

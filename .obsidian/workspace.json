@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/기초 지식 강화/2. 네트워크/7. IP 주소와 서브넷 마스크.md",
+                "file": "기타/Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "facb7a0178d8105e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/기초 지식 강화/2. 네트워크/8. HTTP,HTTPS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/기초 지식 강화/2. 네트워크/7. IP 주소와 서브넷 마스크.md",
+                "file": "Study/기초 지식 강화/2. 네트워크/8. HTTP,HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/기초 지식 강화/2. 네트워크/7. IP 주소와 서브넷 마스크.md",
+                "file": "Study/기초 지식 강화/2. 네트워크/8. HTTP,HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/기초 지식 강화/2. 네트워크/7. IP 주소와 서브넷 마스크.md"
+                "file": "Study/기초 지식 강화/2. 네트워크/8. HTTP,HTTPS.md"
               }
             }
           }
@@ -155,19 +168,20 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5743a3a24c13f837",
+  "active": "facb7a0178d8105e",
   "lastOpenFiles": [
-    "Study/기초 지식 강화/2. 네트워크/4. TCP 3-way handshake.md",
+    "기타/Roadmap.md",
+    "Study/기초 지식 강화/2. 네트워크/8. HTTP,HTTPS.md",
+    "Day Planner/2024/2024-08-24.md",
     "Study/기초 지식 강화/2. 네트워크/7. IP 주소와 서브넷 마스크.md",
+    "Study/기초 지식 강화/2. 네트워크/4. TCP 3-way handshake.md",
     "Study/기초 지식 강화/2. 네트워크/6. OSI 7계층과 TCP IP 4계층의 비교.md",
     "Study/기초 지식 강화/2. 네트워크/1. TCP IP.md",
     "Study/기초 지식 강화/1. 자료구조/3. 시간 복잡도, 공간복잡도.md",
-    "기타/Roadmap.md",
     "Study/기초 지식 강화/2. 네트워크/5. OSI 7계층.md",
     "Study/기초 지식 강화/2. 네트워크/3. TCP와 UDP의 차이점.md",
     "Study/기초 지식 강화/2. 네트워크/2. UDP.md",
     "Study/기초 지식 강화/2. 네트워크",
-    "Day Planner/2024/2024-08-24.md",
     "Day Planner/2024/2024-08-23.md",
     "Study/이미지/tcp-handshake-1.png",
     "Study/이미지",

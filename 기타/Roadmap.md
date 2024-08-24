@@ -1,6 +1,6 @@
  **기초 지식 강화**
 	1. 자료구조
-		선형 자료구조
+		1. 선형 자료구조
 			1.	배열
 			2.	리스트
 			•	배열 리스트
@@ -8,7 +8,7 @@
 			3.	스택: 후입선출(LIFO) 구조
 			4.	큐: 선입선출(FIFO) 구조
 			5. 양방향 큐 
-		비선형 자료구조
+		2. 비선형 자료구조
 			1.	트리
 			•	이진 트리
 			•	이진 탐색 트리
@@ -19,19 +19,20 @@
 			3.	해시 테이블
 			•	해시 함수
 			•	충돌 해결 기법 (체이닝, 개방 주소법)
-	2. 시간 복잡도 , 공간 복잡도
-	3. TCP/IP
-	4. UDP
-	5. TCP와 UDP의 차이점
-	6. TCP 3-way handshake
-	7. OSI 7계층
-	8. OSI 7계층과 TCP/IP 4계층의 비교
-	9. IP 주소와 서브넷 마스크
-	10. HTTP/HTTPS
-	11. DOMAIN
-	12. DNS
-	13. RESTful API 
-	14. WebSocket
+		3. 시간 복잡도 , 공간 복잡도
+	2. 네트워크
+		1. TCP/IP
+		2. UDP
+		3. TCP와 UDP의 차이점
+		4. TCP 3-way handshake
+		5. OSI 7계층
+		6. OSI 7계층과 TCP/IP 4계층의 비교
+		7. IP 주소와 서브넷 마스크
+		8. HTTP/HTTPS
+		9. DOMAIN
+		10. DNS
+		11. RESTful API 
+		12. WebSocket
 
 
 

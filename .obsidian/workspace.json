@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/기초 지식 강화/2. 네트워크/10. DOMAIN, DNS.md",
+                "file": "Day Planner/2024/2024-08-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/기초 지식 강화/2. 네트워크/10. DOMAIN, DNS.md",
+                "file": "Day Planner/2024/2024-08-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/기초 지식 강화/2. 네트워크/10. DOMAIN, DNS.md",
+                "file": "Day Planner/2024/2024-08-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/기초 지식 강화/2. 네트워크/10. DOMAIN, DNS.md"
+                "file": "Day Planner/2024/2024-08-27.md"
               }
             }
           }
@@ -194,8 +194,8 @@
   },
   "active": "2a38931b9b295ed9",
   "lastOpenFiles": [
-    "Day Planner/2024/2024-08-27.md",
     "Study/기초 지식 강화/2. 네트워크/10. DOMAIN, DNS.md",
+    "Day Planner/2024/2024-08-27.md",
     "기타/Roadmap.md",
     "Study/기초 지식 강화/2. 네트워크/9. SSL,TLS 인증서.md",
     "Study/기초 지식 강화/2. 네트워크/8. HTTP,HTTPS.md",

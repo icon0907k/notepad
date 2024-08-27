@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/기초 지식 강화/2. 네트워크/11. RESTful API.md",
+                "file": "Day Planner/2024/2024-08-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/기초 지식 강화/2. 네트워크/11. RESTful API.md",
+                "file": "Day Planner/2024/2024-08-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/기초 지식 강화/2. 네트워크/11. RESTful API.md",
+                "file": "Day Planner/2024/2024-08-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/기초 지식 강화/2. 네트워크/11. RESTful API.md"
+                "file": "Day Planner/2024/2024-08-27.md"
               }
             }
           }
@@ -206,10 +206,10 @@
   },
   "active": "60b84a73f3a22356",
   "lastOpenFiles": [
-    "Study/기초 지식 강화/2. 네트워크/12. WebSocket.md",
     "기타/Roadmap.md",
     "Day Planner/2024/2024-08-27.md",
     "Study/기초 지식 강화/2. 네트워크/11. RESTful API.md",
+    "Study/기초 지식 강화/2. 네트워크/12. WebSocket.md",
     "Study/기초 지식 강화/2. 네트워크/10. DOMAIN, DNS.md",
     "Study/기초 지식 강화/2. 네트워크/9. SSL,TLS 인증서.md",
     "Study/기초 지식 강화/2. 네트워크/8. HTTP,HTTPS.md",

@@ -30,8 +30,7 @@
 		7. IP 주소와 서브넷 마스크
 		8. HTTP/HTTPS
 		9. SSL/TLS 인증서
-		10. DOMAIN
-		11. DNS
+		10. DOMAIN/DNS
 		12. RESTful API 
 		13. WebSocket
 

@@ -31,8 +31,8 @@
 		8. HTTP/HTTPS
 		9. SSL/TLS 인증서
 		10. DOMAIN/DNS
-		12. RESTful API 
-		13. WebSocket
+		11. RESTful API 
+		12. WebSocket
 
 
 

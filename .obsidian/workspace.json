@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planner/2024/2024-08-27.md",
+                "file": "Study/기초 지식 강화/2. 네트워크/12. WebSocket.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planner/2024/2024-08-27.md",
+                "file": "Study/기초 지식 강화/2. 네트워크/12. WebSocket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planner/2024/2024-08-27.md",
+                "file": "Study/기초 지식 강화/2. 네트워크/12. WebSocket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planner/2024/2024-08-27.md"
+                "file": "Study/기초 지식 강화/2. 네트워크/12. WebSocket.md"
               }
             }
           }
@@ -206,21 +206,22 @@
   },
   "active": "60b84a73f3a22356",
   "lastOpenFiles": [
-    "기타/Roadmap.md",
-    "Day Planner/2024/2024-08-27.md",
-    "Study/기초 지식 강화/2. 네트워크/11. RESTful API.md",
+    "Day Planner/2024/2024-08-28.md",
     "Study/기초 지식 강화/2. 네트워크/12. WebSocket.md",
+    "Day Planner/2024/2024-08-27.md",
+    "기타/Roadmap.md",
     "Study/기초 지식 강화/2. 네트워크/10. DOMAIN, DNS.md",
-    "Study/기초 지식 강화/2. 네트워크/9. SSL,TLS 인증서.md",
-    "Study/기초 지식 강화/2. 네트워크/8. HTTP,HTTPS.md",
-    "Day Planner/2024/2024-08-26.md",
-    "Day Planner/2024/2024-08-24.md",
-    "Study/기초 지식 강화/2. 네트워크/7. IP 주소와 서브넷 마스크.md",
-    "Study/기초 지식 강화/2. 네트워크/4. TCP 3-way handshake.md",
-    "Study/기초 지식 강화/2. 네트워크/6. OSI 7계층과 TCP IP 4계층의 비교.md",
-    "Study/기초 지식 강화/2. 네트워크/1. TCP IP.md",
+    "Study/기초 지식 강화/2. 네트워크/11. RESTful API.md",
     "Study/기초 지식 강화/1. 자료구조/3. 시간 복잡도, 공간복잡도.md",
     "Study/기초 지식 강화/2. 네트워크/5. OSI 7계층.md",
+    "Study/기초 지식 강화/2. 네트워크/6. OSI 7계층과 TCP IP 4계층의 비교.md",
+    "Study/기초 지식 강화/2. 네트워크/7. IP 주소와 서브넷 마스크.md",
+    "Study/기초 지식 강화/2. 네트워크/8. HTTP,HTTPS.md",
+    "Study/기초 지식 강화/2. 네트워크/9. SSL,TLS 인증서.md",
+    "Day Planner/2024/2024-08-26.md",
+    "Day Planner/2024/2024-08-24.md",
+    "Study/기초 지식 강화/2. 네트워크/4. TCP 3-way handshake.md",
+    "Study/기초 지식 강화/2. 네트워크/1. TCP IP.md",
     "Study/기초 지식 강화/2. 네트워크/3. TCP와 UDP의 차이점.md",
     "Study/기초 지식 강화/2. 네트워크/2. UDP.md",
     "Study/기초 지식 강화/2. 네트워크",
@@ -236,7 +237,6 @@
     "Day Planner/2024/2024-08-09.md",
     "Day Planner/2024/2024-08-07.md",
     "Day Planner/2024/2024-08-06.md",
-    "Day Planner/2024/2024-08-08.md",
     "Study/기초 지식 강화",
     "Study/기초 지식 강화/2. 복잡도",
     "Study/PDF 파일/6. List 인터페이스, Queue 인터페이스, Deque 인터페이스, ArrayList 클래스, LinkedList 클래스, ArrayDeque 클래스.pdf",

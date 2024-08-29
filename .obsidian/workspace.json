@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/코딩 테스트/Roadmap.md",
+                "file": "기타/Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/코딩 테스트/Roadmap.md",
+                "file": "기타/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/코딩 테스트/Roadmap.md",
+                "file": "기타/Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/코딩 테스트/Roadmap.md"
+                "file": "기타/Roadmap.md"
               }
             }
           }
@@ -206,8 +206,8 @@
   },
   "active": "60b84a73f3a22356",
   "lastOpenFiles": [
-    "기타/Roadmap.md",
     "Study/코딩 테스트/Roadmap.md",
+    "기타/Roadmap.md",
     "Study/코딩 테스트",
     "Study/기초 지식 강화/1.2. 네트워크/1. TCP IP.md",
     "Study/기초 지식 강화/1.1 자료구조/1. 선형 자료구조/5. 양방향 큐.md",

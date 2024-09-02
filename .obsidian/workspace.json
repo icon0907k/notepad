@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/무제 파일.md",
+                "file": "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/3. 동적 계획법.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/4. 분할 정복.md",
                 "mode": "source",
                 "source": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/4. 분할 정복.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/4. 분할 정복.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기타/Roadmap.md"
+                "file": "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/4. 분할 정복.md"
               }
             }
           }
@@ -266,11 +266,20 @@
   },
   "active": "4db6cc18fd3a5c45",
   "lastOpenFiles": [
-    "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/무제 파일 1.md",
-    "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/무제 파일.md",
-    "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/2. 탐색 알고리즘.md",
     "기타/Roadmap.md",
+    "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/3. 동적 계획법.md",
+    "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/4. 분할 정복.md",
+    "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/2. 탐색 알고리즘.md",
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/1. 정렬 알고리즘.md",
+    "Day Planner/2024/2024-08-24.md",
+    "Day Planner/2024/2024-08-27.md",
+    "Day Planner/2024/2024-08-28.md",
+    "Day Planner/2024/2024-08-26.md",
+    "Day Planner/2024/2024-08-06.md",
+    "Day Planner/2024/2024-08-09.md",
+    "Day Planner/2024/2024-08-13.md",
+    "Day Planner/2024/2024-08-08.md",
+    "Day Planner/2024/2024-08-07.md",
     "Study/코딩 테스트/Roadmap.md",
     "Study/기초 지식 강화/1.1 자료구조/2. 비선형 자료구조/1. 트리.md",
     "Study/기초 지식 강화/1.1 자료구조/2. 비선형 자료구조/3. 해시 테이블.md",
@@ -286,16 +295,7 @@
     "Study/기초 지식 강화/1.1 자료구조/4.복잡도 분석",
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘",
     "Study/기초 지식 강화/1.2. 네트워크/12. WebSocket.md",
-    "Day Planner/2024/2024-08-28.md",
-    "Day Planner/2024/2024-08-27.md",
     "Study/기초 지식 강화/1.2. 네트워크/10. DOMAIN, DNS.md",
-    "Study/기초 지식 강화/1.2. 네트워크/11. RESTful API.md",
-    "Study/기초 지식 강화/1.1 자료구조/4.복잡도 분석/3. 시간 복잡도, 공간복잡도.md",
-    "Study/기초 지식 강화/1.2. 네트워크/5. OSI 7계층.md",
-    "Study/기초 지식 강화/1.2. 네트워크/6. OSI 7계층과 TCP IP 4계층의 비교.md",
-    "Study/기초 지식 강화/1.2. 네트워크/7. IP 주소와 서브넷 마스크.md",
-    "Study/기초 지식 강화/1.2. 네트워크/8. HTTP,HTTPS.md",
-    "Study/기초 지식 강화/1.2. 네트워크/9. SSL,TLS 인증서.md",
     "Study/기초 지식 강화/1.2. 네트워크",
     "Study/이미지/tcp-handshake-1.png",
     "Study/이미지",

@@ -97,6 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/2. 탐색 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af19f936e8c64be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4db6cc18fd3a5c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "기타/Roadmap.md",
                 "mode": "source",
                 "source": false
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -240,9 +264,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "84f1d4169f9d15cf",
+  "active": "4db6cc18fd3a5c45",
   "lastOpenFiles": [
+    "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/무제 파일 1.md",
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/무제 파일.md",
+    "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/2. 탐색 알고리즘.md",
     "기타/Roadmap.md",
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/1. 정렬 알고리즘.md",
     "Study/코딩 테스트/Roadmap.md",
@@ -270,8 +296,6 @@
     "Study/기초 지식 강화/1.2. 네트워크/7. IP 주소와 서브넷 마스크.md",
     "Study/기초 지식 강화/1.2. 네트워크/8. HTTP,HTTPS.md",
     "Study/기초 지식 강화/1.2. 네트워크/9. SSL,TLS 인증서.md",
-    "Day Planner/2024/2024-08-26.md",
-    "Day Planner/2024/2024-08-24.md",
     "Study/기초 지식 강화/1.2. 네트워크",
     "Study/이미지/tcp-handshake-1.png",
     "Study/이미지",

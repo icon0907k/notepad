@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6fda1a4934b3396e",
+            "id": "e06d35aa172e4bec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/기초 지식 강화/1.2. 네트워크/16. OAuth 인증 방식.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/기초 지식 강화/1.2. 네트워크/16. OAuth 인증 방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/기초 지식 강화/1.2. 네트워크/16. OAuth 인증 방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기타/Roadmap.md"
+                "file": "Study/기초 지식 강화/1.2. 네트워크/16. OAuth 인증 방식.md"
               }
             }
           }
@@ -155,12 +155,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "6fda1a4934b3396e",
+  "active": "e06d35aa172e4bec",
   "lastOpenFiles": [
+    "기타/Roadmap.md",
+    "Study/기초 지식 강화/1.2. 네트워크/16. OAuth 인증 방식.md",
+    "Project History",
     "Study/기초 지식 강화/1.2. 네트워크/15. 로드 밸런싱 (Round Robin, Least Connections, IP Hash).md",
+    "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/1. 정렬 알고리즘.md",
     "Study/기초 지식 강화/1.2. 네트워크/14. 캐싱 (브라우저 캐싱, CDN, Cache-Control).md",
     "Study/코딩 테스트/Roadmap.md",
-    "기타/Roadmap.md",
     "Study/기초 지식 강화/1.2. 네트워크/4. TCP 3-way handshake.md",
     "Study/PDF 파일/4. TCP 3-way handshake.pdf",
     "Study/기초 지식 강화/1.2. 네트워크/3. TCP와 UDP의 차이점.md",
@@ -176,7 +179,6 @@
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/4. 분할 정복.md",
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/3. 동적 계획법.md",
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/2. 탐색 알고리즘.md",
-    "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/1. 정렬 알고리즘.md",
     "Day Planner/2024/2024-08-24.md",
     "Day Planner/2024/2024-08-27.md",
     "Day Planner/2024/2024-08-28.md",
@@ -186,14 +188,11 @@
     "Day Planner/2024/2024-08-13.md",
     "Day Planner/2024/2024-08-08.md",
     "Day Planner/2024/2024-08-07.md",
-    "Study/기초 지식 강화/1.1 자료구조/2. 비선형 자료구조/1. 트리.md",
-    "Study/기초 지식 강화/1.1 자료구조/2. 비선형 자료구조/3. 해시 테이블.md",
     "Study/기초 지식 강화/1.1 자료구조/1. 선형 자료구조/무제 폴더",
     "Study/코딩 테스트",
     "Study/기초 지식 강화/1.1 자료구조/4.복잡도 분석",
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘",
     "Study/기초 지식 강화/1.2. 네트워크",
-    "Study/이미지",
     "TCP-three-way-handshake.png",
     "steps-of-a-3-way-handshake-for-terminating-the-connection.webp",
     "Pasted image 20240806152512.png",

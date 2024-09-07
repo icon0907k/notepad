@@ -51,7 +51,8 @@
 13. HTTP 상태 코드 (2xx, 3xx, 4xx, 5xx)
 14. 캐싱 (브라우저 캐싱, CDN, Cache-Control)
 15. 로드 밸런싱 (Round Robin, Least Connections, IP Hash)
-16. OAuth 및 JWT(Json Web Token) 인증 방식
+16. OAuth 인증 방식
+17. JWT(Json Web Token) 인증 방식
 
 ### **2. 데이터베이스**
 1. 관계형 데이터베이스(RDBMS)

@@ -53,6 +53,7 @@
 15. 로드 밸런싱 (Round Robin, Least Connections, IP Hash)
 16. OAuth 인증 방식
 17. JWT(Json Web Token) 인증 방식
+18. JWT , OAuth 사용
 
 ### **2. 데이터베이스**
 1. 관계형 데이터베이스(RDBMS)

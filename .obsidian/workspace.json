@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/기초 지식 강화/1.2. 네트워크/16. OAuth 인증 방식.md",
+                "file": "기타/Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f211db746213f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기타/Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97c16e22f441b161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/기초 지식 강화/1.2. 네트워크/17. JWT(Json Web Token) 인증 방식.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/기초 지식 강화/1.2. 네트워크/16. OAuth 인증 방식.md",
+                "file": "Study/기초 지식 강화/1.2. 네트워크/17. JWT(Json Web Token) 인증 방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/기초 지식 강화/1.2. 네트워크/16. OAuth 인증 방식.md",
+                "file": "Study/기초 지식 강화/1.2. 네트워크/17. JWT(Json Web Token) 인증 방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/기초 지식 강화/1.2. 네트워크/16. OAuth 인증 방식.md"
+                "file": "Study/기초 지식 강화/1.2. 네트워크/17. JWT(Json Web Token) 인증 방식.md"
               }
             }
           }
@@ -155,10 +180,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e06d35aa172e4bec",
+  "active": "97c16e22f441b161",
   "lastOpenFiles": [
+    "Study/기초 지식 강화/1.2. 네트워크/18. JWT , OAuth 사용.md",
     "기타/Roadmap.md",
+    "Study/기초 지식 강화/1.2. 네트워크/17. JWT(Json Web Token) 인증 방식.md",
     "Study/기초 지식 강화/1.2. 네트워크/16. OAuth 인증 방식.md",
+    "Study/기초 지식 강화/1.2. 네트워크/2. UDP.md",
+    "Study/기초 지식 강화/1.2. 네트워크/1. TCP IP.md",
     "Project History",
     "Study/기초 지식 강화/1.2. 네트워크/15. 로드 밸런싱 (Round Robin, Least Connections, IP Hash).md",
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/1. 정렬 알고리즘.md",
@@ -168,9 +197,7 @@
     "Study/PDF 파일/4. TCP 3-way handshake.pdf",
     "Study/기초 지식 강화/1.2. 네트워크/3. TCP와 UDP의 차이점.md",
     "Study/PDF 파일/3. TCP와 UDP의 차이점.pdf",
-    "Study/기초 지식 강화/1.2. 네트워크/2. UDP.md",
     "Study/PDF 파일/2. UDP.pdf",
-    "Study/기초 지식 강화/1.2. 네트워크/1. TCP IP.md",
     "Study/PDF 파일/1. TCP IP.pdf",
     "Study/기초 지식 강화/1.2. 네트워크/13. HTTP 상태 코드 (2xx, 3xx, 4xx, 5xx).md",
     "기타/옵시디언 Git 플러그인 명령어.md",
@@ -187,7 +214,6 @@
     "Day Planner/2024/2024-08-09.md",
     "Day Planner/2024/2024-08-13.md",
     "Day Planner/2024/2024-08-08.md",
-    "Day Planner/2024/2024-08-07.md",
     "Study/기초 지식 강화/1.1 자료구조/1. 선형 자료구조/무제 폴더",
     "Study/코딩 테스트",
     "Study/기초 지식 강화/1.1 자료구조/4.복잡도 분석",

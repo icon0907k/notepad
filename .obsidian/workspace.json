@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "faab8f3122da51e4",
+        "id": "3c3cf955b538eba1",
         "type": "tabs",
         "children": [
           {
-            "id": "f57eb51fca544b90",
+            "id": "dd8aaba5fab0705f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "기타/맥북 git 설치, 옵시디언 연동 및 커밋.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -87,7 +91,7 @@
             }
           },
           {
-            "id": "7a8f4ea5985ddd0e",
+            "id": "19b2bac32381ae02",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -95,11 +99,12 @@
             }
           },
           {
-            "id": "65bd3b1852dcda3a",
+            "id": "64c94d24b2e6e233",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "기타/맥북 git 설치, 옵시디언 연동 및 커밋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,30 +116,41 @@
             }
           },
           {
-            "id": "78159c9f6c00c7d4",
+            "id": "4e6563e07f1674b9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "기타/맥북 git 설치, 옵시디언 연동 및 커밋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "656e621020fa0237",
+            "id": "7c1c8d18218f6de8",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "기타/맥북 git 설치, 옵시디언 연동 및 커밋.md"
+              }
+            }
+          },
+          {
+            "id": "18a656a3bdb45bf0",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,15 +160,20 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f57eb51fca544b90",
+  "active": "dd8aaba5fab0705f",
   "lastOpenFiles": [
+    "기타/옵시디언 Git 플러그인 명령어.md",
+    "기타/Roadmap.md",
+    "기타/맥북 git 설치, 옵시디언 연동 및 커밋.md",
+    "무제 파일.canvas",
+    "Study/코딩 테스트/Roadmap.md",
     "Study/PDF 파일/네트워크 정리.pdf",
     "Study/PDF 파일/2. UDP.pdf",
     "Study/PDF 파일/1. TCP IP.pdf",
-    "기타/Roadmap.md",
     "Study/기초 지식 강화/1.2. 네트워크/18. JWT , OAuth 사용.md",
     "Study/PDF 파일/18. JWT , OAuth 사용.pdf",
     "Study/기초 지식 강화/1.2. 네트워크/17. JWT(Json Web Token) 인증 방식.md",
@@ -168,7 +189,6 @@
     "Study/기초 지식 강화/1.2. 네트워크/12. WebSocket.md",
     "Study/PDF 파일/12. WebSocket.pdf",
     "Study/기초 지식 강화/1.2. 네트워크/11. RESTful API.md",
-    "Study/PDF 파일/11. RESTful API.pdf",
     "Study/기초 지식 강화/1.2. 네트워크/10. DOMAIN, DNS.md",
     "Study/기초 지식 강화/1.2. 네트워크/9. SSL,TLS 인증서.md",
     "Study/기초 지식 강화/1.2. 네트워크/8. HTTP,HTTPS.md",
@@ -179,9 +199,7 @@
     "Study/기초 지식 강화/1.2. 네트워크/3. TCP와 UDP의 차이점.md",
     "Study/기초 지식 강화/1.2. 네트워크/2. UDP.md",
     "Study/기초 지식 강화/1.2. 네트워크/1. TCP IP.md",
-    "Study/코딩 테스트/Roadmap.md",
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/1. 정렬 알고리즘.md",
-    "기타/옵시디언 Git 플러그인 명령어.md",
     "Study/기초 지식 강화/1.1 자료구조/4.복잡도 분석/3. 시간 복잡도, 공간복잡도.md",
     "Study/이미지/tcp-handshake-1.png",
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/4. 분할 정복.md",

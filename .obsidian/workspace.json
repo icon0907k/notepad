@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/Java 클래스 정리/래퍼 클래스.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/Java 클래스 정리/래퍼 클래스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기타/Roadmap.md",
+                "file": "Study/Java 클래스 정리/래퍼 클래스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기타/Roadmap.md"
+                "file": "Study/Java 클래스 정리/래퍼 클래스.md"
               }
             }
           },
@@ -165,14 +165,16 @@
   },
   "active": "18ea2719ed5911d7",
   "lastOpenFiles": [
-    "Study/자격증/AWS DOP-C02/무제 파일.md",
-    "Study/이미지/CICD.png",
-    "Study/Java 클래스 정리/래퍼 클래스.md",
-    "Study/Java 클래스 정리/Character 클래스.md",
-    "Study/코딩 테스트/기본 문제/대문자는 소문자로, 소문자는 대문자로 변환 (Character).md",
     "Study/코딩 테스트/기본 문제/문자열의 숫자들 더하기 (Character).md",
-    "Study/Java 클래스 정리",
+    "Study/코딩 테스트/기본 문제/대문자는 소문자로, 소문자는 대문자로 변환 (Character).md",
+    "Study/Java 클래스 정리/Character 클래스.md",
+    "Study/Java 클래스 정리/래퍼 클래스.md",
+    "기타/Roadmap.md",
+    "Study/이미지/CICD.png",
+    "Study/이미지/tcp-handshake-1.png",
+    "Study/자격증/AWS DOP-C02/무제 파일.md",
     "Study/코딩 테스트/1. Roadmap.md",
+    "Study/Java 클래스 정리",
     "Study/코딩 테스트/기본 문제",
     "Study/자격증/무제 파일.md",
     "Study/자격증/AWS DOP-C02",
@@ -184,7 +186,6 @@
     "Study/PDF 파일/네트워크 정리.pdf",
     "Study/PDF 파일/18. JWT , OAuth 사용.pdf",
     "기타/옵시디언 Git 플러그인 명령어.md",
-    "기타/Roadmap.md",
     "무제 파일.canvas",
     "Study/PDF 파일/2. UDP.pdf",
     "Study/PDF 파일/1. TCP IP.pdf",
@@ -202,7 +203,6 @@
     "Study/기초 지식 강화/1.2. 네트워크/8. HTTP,HTTPS.md",
     "Study/기초 지식 강화/1.2. 네트워크/7. IP 주소와 서브넷 마스크.md",
     "Study/기초 지식 강화/1.2. 네트워크/6. OSI 7계층과 TCP IP 4계층의 비교.md",
-    "Study/이미지/tcp-handshake-1.png",
     "TCP-three-way-handshake.png",
     "steps-of-a-3-way-handshake-for-terminating-the-connection.webp",
     "Pasted image 20240806152512.png",

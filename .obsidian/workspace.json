@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cc755358f76a7491",
+        "id": "377e4a9adc453fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "efebe280ffbf7f91",
+            "id": "5c7342634c0c0d50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/스프링/스프링 입문/1. 사전 준비.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "552f1e1a7a18ea56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/스프링/스프링 입문/1. 사전 준비.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "572bd504730c0d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/스프링/스프링 입문/2. 라이브러리 살펴보기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac6c1f90bd49bca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Java/Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해하기.md",
+                "file": "Study/Java/Java 기본/3. 객체 지향 프로그래밍 vs 절차 지향 프로그래밍.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Java/Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해하기.md",
+                "file": "Study/Java/Java 기본/3. 객체 지향 프로그래밍 vs 절차 지향 프로그래밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Java/Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해하기.md",
+                "file": "Study/Java/Java 기본/3. 객체 지향 프로그래밍 vs 절차 지향 프로그래밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Java/Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해하기.md"
+                "file": "Study/Java/Java 기본/3. 객체 지향 프로그래밍 vs 절차 지향 프로그래밍.md"
               }
             }
           },
@@ -200,10 +163,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ac6c1f90bd49bca0",
+  "active": "5c7342634c0c0d50",
   "lastOpenFiles": [
+    "Study/Java/Java 기본/3. 객체 지향 프로그래밍 vs 절차 지향 프로그래밍.md",
     "Study/Java/Java 기본/1. 클래스(Class)와 객체(Object), 인스턴스(Instance)의 차이점.md",
-    "Study/Java/Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해하기.md",
+    "Study/Java/Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해.md",
     "Study/Java/Java 기본/무제 폴더",
     "기타/맥북 git 설치, 옵시디언 연동 및 커밋.md",
     "기타/옵시디언 Git 플러그인 명령어.md",
@@ -243,7 +207,6 @@
     "Study/기초 지식 강화/1.2. 네트워크/14. 캐싱 (브라우저 캐싱, CDN, Cache-Control).md",
     "Study/기초 지식 강화/1.2. 네트워크/13. HTTP 상태 코드 (2xx, 3xx, 4xx, 5xx).md",
     "Study/기초 지식 강화/1.2. 네트워크/12. WebSocket.md",
-    "Study/기초 지식 강화/1.2. 네트워크/11. RESTful API.md",
     "TCP-three-way-handshake.png",
     "steps-of-a-3-way-handshake-for-terminating-the-connection.webp",
     "Pasted image 20240806152512.png",

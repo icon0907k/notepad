@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Java/Java 기본/5. 패키지.md",
+                "file": "Study/Java/Java 기본/7. 캡슐화(Encapsulation).md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Java/Java 기본/5. 패키지.md",
+                "file": "Study/Java/Java 기본/7. 캡슐화(Encapsulation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Java/Java 기본/5. 패키지.md",
+                "file": "Study/Java/Java 기본/7. 캡슐화(Encapsulation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Java/Java 기본/5. 패키지.md"
+                "file": "Study/Java/Java 기본/7. 캡슐화(Encapsulation).md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "5c7342634c0c0d50",
   "lastOpenFiles": [
-    "Study/Java/Java 기본/4. 생성자 사용, this  사용.md",
+    "Study/Java/Java 기본/6. 접근 제어자 이해.md",
+    "Study/Java/Java 기본/7. 캡슐화(Encapsulation).md",
     "Study/Java/Java 기본/5. 패키지.md",
+    "Study/Java/Java 기본/4. 생성자 사용, this  사용.md",
     "Study/Java/Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해.md",
     "Study/Java/Java 기본/3. 객체 지향 프로그래밍 vs 절차 지향 프로그래밍.md",
     "Study/Java/Java 기본/1. 클래스(Class)와 객체(Object), 인스턴스(Instance)의 차이점.md",
@@ -205,8 +207,6 @@
     "무제 파일.canvas",
     "Study/기초 지식 강화/1.2. 네트워크/17. JWT(Json Web Token) 인증 방식.md",
     "Study/기초 지식 강화/1.2. 네트워크/16. OAuth 인증 방식.md",
-    "Study/기초 지식 강화/1.2. 네트워크/15. 로드 밸런싱 (Round Robin, Least Connections, IP Hash).md",
-    "Study/기초 지식 강화/1.2. 네트워크/14. 캐싱 (브라우저 캐싱, CDN, Cache-Control).md",
     "TCP-three-way-handshake.png",
     "steps-of-a-3-way-handshake-for-terminating-the-connection.webp",
     "Pasted image 20240806152512.png",

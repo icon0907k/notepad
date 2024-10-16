@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Java/Java 기본/클래스(Class)와 객체(Object), 인스턴스(Instance)의 차이점.md",
+                "file": "Study/Java/Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Java/Java 기본/클래스(Class)와 객체(Object), 인스턴스(Instance)의 차이점.md",
+                "file": "Study/Java/Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Java/Java 기본/클래스(Class)와 객체(Object), 인스턴스(Instance)의 차이점.md",
+                "file": "Study/Java/Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Java/Java 기본/클래스(Class)와 객체(Object), 인스턴스(Instance)의 차이점.md"
+                "file": "Study/Java/Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해하기.md"
               }
             }
           },
@@ -202,9 +202,11 @@
   },
   "active": "ac6c1f90bd49bca0",
   "lastOpenFiles": [
+    "Study/Java/Java 기본/1. 클래스(Class)와 객체(Object), 인스턴스(Instance)의 차이점.md",
+    "Study/Java/Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해하기.md",
+    "Study/Java/Java 기본/무제 폴더",
     "기타/맥북 git 설치, 옵시디언 연동 및 커밋.md",
     "기타/옵시디언 Git 플러그인 명령어.md",
-    "Study/Java/Java 기본/클래스(Class)와 객체(Object), 인스턴스(Instance)의 차이점.md",
     "Study/Java/Java 클래스 정리/Character 클래스.md",
     "Study/Java/Java 기본",
     "Study/Java/Java 클래스 정리/래퍼 클래스.md",
@@ -232,7 +234,6 @@
     "Study/Java/Java 클래스 정리",
     "Study/코딩 테스트/기본 문제",
     "Study/자격증/무제 파일.md",
-    "Study/자격증/AWS DOP-C02",
     "Study/기초 지식 강화/1.1 자료구조/1. 선형 자료구조/2. 리스트.md",
     "Study/기초 지식 강화/1.1 자료구조/1. 선형 자료구조/1. 배열.md",
     "무제 파일.canvas",
@@ -243,7 +244,6 @@
     "Study/기초 지식 강화/1.2. 네트워크/13. HTTP 상태 코드 (2xx, 3xx, 4xx, 5xx).md",
     "Study/기초 지식 강화/1.2. 네트워크/12. WebSocket.md",
     "Study/기초 지식 강화/1.2. 네트워크/11. RESTful API.md",
-    "Study/기초 지식 강화/1.2. 네트워크/10. DOMAIN, DNS.md",
     "TCP-three-way-handshake.png",
     "steps-of-a-3-way-handshake-for-terminating-the-connection.webp",
     "Pasted image 20240806152512.png",

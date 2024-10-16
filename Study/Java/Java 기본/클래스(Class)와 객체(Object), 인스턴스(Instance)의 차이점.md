@@ -48,3 +48,62 @@
 객체 지향 프로그래밍에서 클래스를 이해하는 것은 매우 중요하다. 클래스는 설계도이고 객체는 그 설계도를 통해 만들어진 실체이며 인스턴스는 그 객체가 어떤 클래스에서 나왔는지를 강조할 때 사용하는 용어이다. 
 
 ---
+ **Car 클래스**
+- **정의**: 자동차의 속성과 기능을 정의하는 설계도.
+- **속성**:
+    - `make`: 제조사 (예 : Toyota)
+    - `model`: 모델 (예 : m1)
+    - `year`: 연식 (예 : 2020)
+
+``` java
+package class1;
+
+public class Car {
+    String make;  // 제조사
+    String model; // 모델
+    int year;     // 연식
+}
+```
+
+ **객체 (Object)**
+
+- **정의**: 클래스에서 정의한 속성과 기능을 가진 실체.
+- **예시**:
+    - `Car car1 = new Car();` (자동차 객체 생성)
+
+ **인스턴스 (Instance)**
+
+- **정의**: 특정 클래스로부터 생성된 객체.
+- **예시**:
+    - `car1`은 `Car` 클래스의 인스턴스.
+
+``` java
+package class1;
+
+public class CarShowroom {
+    public static void main(String[] args) {
+        // 첫 번째 자동차 객체 생성
+        Car car1 = new Car();
+        car1.make = "Toyota";
+        car1.model = "m1";
+        car1.year = 2020;
+        // 두 번째 자동차 객체 생성
+        Car car2 = new Car();
+        car2.make = "Honda";
+        car2.model = "m1";
+        car2.year = 2021;
+        // Car 배열 생성
+        Car[] cars = new Car[2];
+        cars[0] = car1;
+        cars[1] = car2;
+        // 자동차 정보 출력
+        System.out.println("제조사: " + cars[0].make + ", 모델: " + cars[0].model + ", 연식: " + cars[0].year);
+        System.out.println("제조사: " + cars[1].make + ", 모델: " + cars[1].model + ", 연식: " + cars[1].year);
+    }
+}
+```
+
+```
+제조사: Toyota, 모델: m1, 연식: 2020
+제조사: Honda, 모델: m, 연식: 2021
+```

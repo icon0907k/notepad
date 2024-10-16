@@ -49,3 +49,4 @@ Homebrew는 macOS에서 패키지 관리를 쉽게 해주는 툴입니다.
     - 비밀번호: **PAT**
 
 옵시디언 열기 -> Commit all changes 명령어 실행 -> Git: Push 명령어 실행 -> 완료
+

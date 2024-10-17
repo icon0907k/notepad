@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51bb754fcc052095",
+        "id": "9a828ebaebd22a4b",
         "type": "tabs",
         "children": [
           {
-            "id": "eb1ff15025f5bb62",
+            "id": "b7199125b29e811f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Java/2. Java 중급/2. Object 클래스.md",
+                "file": "Study/Java/2. Java 중급/3. 기본형과 참조형에 대한 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Java/2. Java 중급/2. Object 클래스.md",
+                "file": "Study/Java/2. Java 중급/3. 기본형과 참조형에 대한 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Java/2. Java 중급/2. Object 클래스.md",
+                "file": "Study/Java/2. Java 중급/3. 기본형과 참조형에 대한 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Java/2. Java 중급/2. Object 클래스.md"
+                "file": "Study/Java/2. Java 중급/3. 기본형과 참조형에 대한 이해.md"
               }
             }
           },
@@ -163,10 +163,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "eb1ff15025f5bb62",
+  "active": "b7199125b29e811f",
   "lastOpenFiles": [
-    "Study/Java/2. Java 중급/1.  java.lang 패키지.md",
     "Study/Java/2. Java 중급/2. Object 클래스.md",
+    "Study/Java/2. Java 중급/3. 기본형과 참조형에 대한 이해.md",
+    "Study/Java/2. Java 중급/1.  java.lang 패키지.md",
     "Study/기초 지식 강화/이미지/tcp-handshake-1.png",
     "기타/Roadmap.md",
     "기타/옵시디언 Git 플러그인 명령어.md",
@@ -193,7 +194,6 @@
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/4. 분할 정복.md",
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/3. 동적 계획법.md",
     "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/2. 탐색 알고리즘.md",
-    "Study/기초 지식 강화/1.1 자료구조/3. 알고리즘/1. 정렬 알고리즘.md",
     "Study/PDF 파일/18. JWT , OAuth 사용.pdf",
     "Study/PDF 파일/1. TCP IP.pdf",
     "Study/PDF 파일/네트워크 정리.pdf",

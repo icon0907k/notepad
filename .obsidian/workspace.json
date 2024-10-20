@@ -4,95 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "1a110ed8c1fa3e97",
+        "id": "ae13539a46e0494e",
         "type": "tabs",
         "children": [
           {
-            "id": "4270061d2a21de93",
+            "id": "7edec4cd5f2c0f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Java/2. Java 중급/4. String 클래스와 StringBuilder 클래스.md",
+                "file": "Study/Java/2.1 Java 중급/7. ArrayList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. String 클래스와 StringBuilder 클래스"
+              "title": "7. ArrayList"
             }
           },
           {
-            "id": "8a6e25876d0ba6d2",
+            "id": "5dd9de5a4e8e8b3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Java/2.1 Java 중급/1. 제네릭 사용.md",
+                "file": "Study/Java/2.1 Java 중급/8. LinkedList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 제네릭 사용"
+              "title": "8. LinkedList"
             }
           },
           {
-            "id": "d73d4beb1ffc272b",
+            "id": "6c252e19f522efd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Java/2.1 Java 중급/3. 제네릭 타입 매개변수 제한.md",
+                "file": "Study/Java/2.1 Java 중급/8. LinkedList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 제네릭 타입 매개변수 제한"
-            }
-          },
-          {
-            "id": "cc95a1130ee08149",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Java/2.1 Java 중급/4. 제너릭 메서드.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. 제너릭 메서드"
-            }
-          },
-          {
-            "id": "7f51e325aa9e4d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Java/2.1 Java 중급/1. 제네릭 사용.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. 제네릭 사용"
-            }
-          },
-          {
-            "id": "bcc22b29ff4faa2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Java/2.1 Java 중급/1. 제네릭 사용.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. 제네릭 사용"
+              "title": "8. LinkedList"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Java/2.1 Java 중급/1. 제네릭 사용.md",
+                "file": "Study/Java/2.1 Java 중급/8. LinkedList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1. 제네릭 사용의 백링크"
+              "title": "8. LinkedList의 백링크"
             }
           },
           {
@@ -206,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Java/2.1 Java 중급/1. 제네릭 사용.md",
+                "file": "Study/Java/2.1 Java 중급/8. LinkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1. 제네릭 사용의 나가는 링크"
+              "title": "8. LinkedList의 나가는 링크"
             }
           },
           {
@@ -220,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Java/2.1 Java 중급/1. 제네릭 사용.md"
+                "file": "Study/Java/2.1 Java 중급/8. LinkedList.md"
               },
               "icon": "lucide-list",
-              "title": "1. 제네릭 사용 개요"
+              "title": "8. LinkedList 개요"
             }
           },
           {
@@ -254,14 +212,21 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "bcc22b29ff4faa2f",
+  "active": "6c252e19f522efd9",
   "lastOpenFiles": [
+    "Study/Java/2.1 Java 중급/6. LinkedList와 ArrayList의 메모리 구조.md",
+    "Study/Java/2.1 Java 중급/8. LinkedList.md",
+    "Study/Java/2.1 Java 중급/7. ArrayList.md",
+    "Study/기초 지식 강화/1.1 자료구조/1. 선형 자료구조/3. 스택.md",
+    "Study/기초 지식 강화/1.1 자료구조/1. 선형 자료구조/2. 리스트.md",
+    "Study/기초 지식 강화/1.1 자료구조/1. 선형 자료구조/1. 배열.md",
     "Study/Java/2.1 Java 중급/5. 와일드 카드 사용.md",
+    "Study/기초 지식 강화/1.1 자료구조/4.복잡도 분석/3. 시간 복잡도, 공간복잡도.md",
+    "Study/Java/2. Java 중급/4. String 클래스와 StringBuilder 클래스.md",
+    "Study/Java/2.1 Java 중급/1. 제네릭 사용.md",
     "Study/Java/2.1 Java 중급/4. 제너릭 메서드.md",
     "Study/Java/2.1 Java 중급/3. 제네릭 타입 매개변수 제한.md",
     "Study/Java/2.1 Java 중급/2. 타입 이레이저.md",
-    "Study/Java/2.1 Java 중급/1. 제네릭 사용.md",
-    "Study/Java/2. Java 중급/4. String 클래스와 StringBuilder 클래스.md",
     "Study/Java/2. Java 중급/2. Object 클래스.md",
     "Study/Java/2. Java 중급/1.  java.lang 패키지.md",
     "Study/Java/2.1 Java 중급",
@@ -279,13 +244,6 @@
     "Study/Java/2. Java 중급/11. 기간과 시간의 간격 Duration, Period.md",
     "Study/Java/2. Java 중급/10. 날짜와 시간.md",
     "Study/Java/2. Java 중급/9. 열거형 (Enum Type) 소개.md",
-    "Study/Java/Java 클래스 정리/래퍼 클래스.md",
-    "Study/Java/2. Java 중급/8. Java의 Math 클래스와 Random 클래스 활용.md",
-    "Study/Java/2. Java 중급/7. 자바의 System 클래스.md",
-    "Study/Java/2. Java 중급/6. 자바의 Class 클래스.md",
-    "Study/Java/2. Java 중급/5. 자바의  래퍼 클래스.md",
-    "Study/Java/Java 클래스 정리/Character 클래스.md",
-    "Study/Java/2. Java 중급/3. 기본형과 참조형에 대한 이해.md",
     "Study/기초 지식 강화/이미지/tcp-handshake-1.png",
     "Study/이미지/CICD.png",
     "Study/Java/2. Java 중급",

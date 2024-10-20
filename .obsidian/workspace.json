@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b5c1f27e08d43fe",
+        "id": "e06368c2e57c087f",
         "type": "tabs",
         "children": [
           {
-            "id": "46017a61bfff7282",
+            "id": "127e73be0507a0ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Java/2.1 Java 중급/24. ArrayDeque.md",
+                "file": "Study/Java/2.1 Java 중급/31 Collections 하위 인터페이스, 클래스 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24. ArrayDeque"
+              "title": "31 Collections 하위 인터페이스, 클래스 정리"
             }
           }
         ]
@@ -183,17 +183,23 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "46017a61bfff7282",
+  "active": "127e73be0507a0ee",
   "lastOpenFiles": [
-    "Study/Java/2.1 Java 중급/17. TreeSet.md",
     "Study/Java/2.1 Java 중급/24. ArrayDeque.md",
+    "Study/Java/2.1 Java 중급/31 Collections 하위 인터페이스, 클래스 정리.md",
+    "Study/Java/2.1 Java 중급/17. TreeSet.md",
+    "Study/Java/2.1 Java 중급/30. of() 메서드와 Arrays.asList() 메서드.md",
+    "Study/Java/2.1 Java 중급/29. Collections 유틸.md",
+    "Study/Java/2.1 Java 중급/28. Comparable, Comparator.md",
+    "Study/Java/2.1 Java 중급/21. TreeMap.md",
+    "Study/Java/2.1 Java 중급/26. 자바 제공하는 Iterable, Iterator.md",
+    "Study/Java/2.1 Java 중급/25. 직접 구현 Iterable, Iterator.md",
     "Study/Java/2.1 Java 중급/10. LinkedList.md",
     "Study/Java/2.1 Java 중급/8. List 인터페이스.md",
     "Study/Java/2.1 Java 중급/22. Queue 인터페이스.md",
     "Study/Java/2.1 Java 중급/23. Deque 인터페이스.md",
     "Study/Java/2.1 Java 중급/9. ArrayList.md",
     "Study/Java/2.1 Java 중급/7. LinkedList와 ArrayList의 메모리 구조.md",
-    "Study/Java/2.1 Java 중급/21. TreeMap.md",
     "Study/Java/2.1 Java 중급/12. Set (세트, 셋) 정리.md",
     "Study/Java/2.1 Java 중급/13. 해시 인덱스의 데이터 저장 방식.md",
     "Study/Java/2.1 Java 중급/20. LinkedHashMap.md",
@@ -206,12 +212,6 @@
     "Study/Java/2.1 Java 중급/11. ArrayList VS LinkedList 성능 비교.md",
     "Study/Java/이미지/리스트 인터페이스 구조.png",
     "Study/Java/2.1 Java 중급/6. 자바 리스트.md",
-    "Study/기초 지식 강화/1.1 자료구조/1. 선형 자료구조/3. 스택.md",
-    "Study/기초 지식 강화/1.1 자료구조/1. 선형 자료구조/2. 리스트.md",
-    "Study/기초 지식 강화/1.1 자료구조/1. 선형 자료구조/1. 배열.md",
-    "Study/Java/2.1 Java 중급/5. 와일드 카드 사용.md",
-    "Study/기초 지식 강화/1.1 자료구조/4.복잡도 분석/3. 시간 복잡도, 공간복잡도.md",
-    "Study/Java/2. Java 중급/4. String 클래스와 StringBuilder 클래스.md",
     "Study/Java/2.1 Java 중급",
     "Study/Java/이미지/예외 클래스 계층 구조.png",
     "Study/Java/이미지/예외 계층 구조.png",

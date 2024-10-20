@@ -4,47 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "cd19d781c47d26f0",
+        "id": "1a110ed8c1fa3e97",
         "type": "tabs",
         "children": [
           {
-            "id": "8a2a73c8f5197bff",
+            "id": "4270061d2a21de93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Java/2. Java 중급/17. 자바의 람다 표현식.md",
+                "file": "Study/Java/2. Java 중급/4. String 클래스와 StringBuilder 클래스.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "4. String 클래스와 StringBuilder 클래스"
             }
           },
           {
-            "id": "74fe1cb416c0f959",
+            "id": "8a6e25876d0ba6d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Java/2. Java 중급/19. 예외 처리 기본 개념과 예외 계층 구조.md",
+                "file": "Study/Java/2.1 Java 중급/1. 제네릭 사용.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d07f9712ae434489",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Java/2. Java 중급/18. Java에서 예외 처리를 위한 블록 try, catch, finally.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1. 제네릭 사용"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -79,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -87,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -112,7 +110,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -120,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Java/2. Java 중급/18. Java에서 예외 처리를 위한 블록 try, catch, finally.md",
+                "file": "Study/Java/2.1 Java 중급/1. 제네릭 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "1. 제네릭 사용의 백링크"
             }
           },
           {
@@ -146,10 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Java/2. Java 중급/18. Java에서 예외 처리를 위한 블록 try, catch, finally.md",
+                "file": "Study/Java/2.1 Java 중급/1. 제네릭 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "1. 제네릭 사용의 나가는 링크"
             }
           },
           {
@@ -158,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Java/2. Java 중급/18. Java에서 예외 처리를 위한 블록 try, catch, finally.md"
-              }
+                "file": "Study/Java/2.1 Java 중급/1. 제네릭 사용.md"
+              },
+              "icon": "lucide-list",
+              "title": "1. 제네릭 사용 개요"
             }
           },
           {
@@ -167,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
             }
           }
         ]
@@ -188,15 +198,19 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d07f9712ae434489",
+  "active": "8a6e25876d0ba6d2",
   "lastOpenFiles": [
+    "Study/Java/2. Java 중급/4. String 클래스와 StringBuilder 클래스.md",
+    "Study/Java/2.1 Java 중급/1. 제네릭 사용.md",
+    "Study/Java/2. Java 중급/2. Object 클래스.md",
     "Study/Java/2. Java 중급/1.  java.lang 패키지.md",
+    "Study/Java/2.1 Java 중급",
     "Study/Java/2. Java 중급/19. 예외 처리 기본 개념과 예외 계층 구조.md",
-    "Study/Java/2. Java 중급/18. Java에서 예외 처리를 위한 블록 try, catch, finally.md",
     "Study/Java/이미지/예외 클래스 계층 구조.png",
+    "Study/Java/2. Java 중급/17. 자바의 람다 표현식.md",
+    "Study/Java/2. Java 중급/18. Java에서 예외 처리를 위한 블록 try, catch, finally.md",
     "Study/Java/이미지/예외 계층 구조.png",
     "Study/Java/이미지",
-    "Study/Java/2. Java 중급/17. 자바의 람다 표현식.md",
     "Study/Java/2. Java 중급/14. 중첩 클래스, 내부 클래스.md",
     "Study/Java/2. Java 중급/16. 익명 클래스.md",
     "Study/Java/2. Java 중급/15. 지역 클래스.md",
@@ -211,16 +225,13 @@
     "Study/Java/2. Java 중급/6. 자바의 Class 클래스.md",
     "Study/Java/2. Java 중급/5. 자바의  래퍼 클래스.md",
     "Study/Java/Java 클래스 정리/Character 클래스.md",
-    "Study/Java/2. Java 중급/4. String 클래스와 StringBuilder 클래스.md",
     "Study/Java/2. Java 중급/3. 기본형과 참조형에 대한 이해.md",
-    "Study/Java/2. Java 중급/2. Object 클래스.md",
     "Study/기초 지식 강화/이미지/tcp-handshake-1.png",
     "기타/Roadmap.md",
     "기타/옵시디언 Git 플러그인 명령어.md",
     "기타/맥북 Java 설치 가이드.md",
     "기타/맥북 git 설치, 옵시디언 연동 및 커밋.md",
     "Study/이미지/CICD.png",
-    "Study/Java/1. Java 기본/12. 인터페이스.md",
     "Study/Java/2. Java 중급",
     "Study/PDF 파일/18. JWT , OAuth 사용.pdf",
     "Study/PDF 파일/1. TCP IP.pdf",
@@ -232,7 +243,6 @@
     "Study/스프링/이미지/인텔리제이 기본설정1.png",
     "스크린샷 2024-10-01 오후 8.03.32.png",
     "Study/스프링/이미지",
-    " 1",
     "무제 파일.canvas",
     "TCP-three-way-handshake.png",
     "steps-of-a-3-way-handshake-for-terminating-the-connection.webp",

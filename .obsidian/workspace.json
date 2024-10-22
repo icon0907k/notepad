@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Java/3. Java 고급/25. Executor 예외 처리.md",
+                "file": "Study/Java/3. Java 고급/24. Executor 스레드 풀 관리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25. Executor 예외 처리"
+              "title": "24. Executor 스레드 풀 관리"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "bcb044c49f8ee989",
   "lastOpenFiles": [
-    "Study/Java/3. Java 고급/24. Executor 스레드 풀 관리.md",
     "Study/Java/3. Java 고급/25. Executor 예외 처리.md",
+    "Study/Java/3. Java 고급/24. Executor 스레드 풀 관리.md",
     "Study/Java/3. Java 고급/20. Executor 프레임워크 소개.md",
     "Study/Java/3. Java 고급/23. ExecutorService의 종료 메서드.md",
     "Study/Java/3. Java 고급/23. Executor 인터페이스, ExecutorService 인터페이스 정리.md",

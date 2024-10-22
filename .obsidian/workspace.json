@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "467638daccd68313",
+        "id": "e06336f2b30ea7d2",
         "type": "tabs",
         "children": [
           {
-            "id": "899c58c088f776c6",
+            "id": "14bfddd59790cfc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "9. 스레드 join()"
             }
+          },
+          {
+            "id": "af7520cba07a4b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Java/3. Java 고급/10. 스레드의 interrupt(), currentThread().isInterrupted(), interrupted(), yield().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. 스레드의 interrupt(), currentThread().isInterrupted(), interrupted(), yield()"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,12 +198,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "899c58c088f776c6",
+  "active": "af7520cba07a4b43",
   "lastOpenFiles": [
+    "Study/Java/3. Java 고급/9. 스레드 join().md",
+    "Study/Java/3. Java 고급/10. 스레드의 interrupt(), currentThread().isInterrupted(), interrupted(), yield().md",
     "Study/Java/3. Java 고급/4. 스레드 생성하기.md",
     "Study/Java/3. Java 고급/8. 체크 예외 재정의에 대한 이해.md",
     "Study/Java/3. Java 고급/7. 자바 스레드 기본 개념.md",
-    "Study/Java/3. Java 고급/9. 스레드 join().md",
     "Study/Java/3. Java 고급/6. Runnable을 만드는 다양한 방법.md",
     "Study/Java/3. Java 고급/5. 데몬 스레드, 스레드 생성 - Runnable.md",
     "Study/Java/3. Java 고급/3. 스레드 사용 시점 리스트.md",
@@ -212,7 +228,6 @@
     "Study/Java/2.1 Java 중급/10. LinkedList.md",
     "Study/Java/2.1 Java 중급/8. List 인터페이스.md",
     "Study/Java/2.1 Java 중급/22. Queue 인터페이스.md",
-    "Study/Java/2.1 Java 중급/23. Deque 인터페이스.md",
     "Study/Java/이미지/리스트 인터페이스 구조.png",
     "Study/Java/2.1 Java 중급",
     "Study/Java/이미지/예외 계층 구조.png",

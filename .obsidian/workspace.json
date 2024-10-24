@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "24. Executor 스레드 풀 관리"
             }
+          },
+          {
+            "id": "ccd64add5a293646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/객체지향 설계/1. SOLID 원칙.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. SOLID 원칙"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +198,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "bcb044c49f8ee989",
+  "active": "ccd64add5a293646",
   "lastOpenFiles": [
-    "Study/Java/3. Java 고급/25. Executor 예외 처리.md",
+    "무제 파일.md",
+    "Study/객체지향 설계",
+    "Study/객체지향 설계/1. SOLID 원칙.md",
+    "Study/스프링/1. 기본",
     "Study/Java/3. Java 고급/24. Executor 스레드 풀 관리.md",
+    "Study/Java/3. Java 고급/25. Executor 예외 처리.md",
     "Study/Java/3. Java 고급/20. Executor 프레임워크 소개.md",
     "Study/Java/3. Java 고급/23. ExecutorService의 종료 메서드.md",
     "Study/Java/3. Java 고급/23. Executor 인터페이스, ExecutorService 인터페이스 정리.md",
@@ -208,9 +227,6 @@
     "Study/Java/3. Java 고급/4. 스레드 생성하기.md",
     "Study/Java/3. Java 고급/8. 체크 예외 재정의에 대한 이해.md",
     "Study/Java/3. Java 고급/7. 자바 스레드 기본 개념.md",
-    "Study/Java/3. Java 고급/6. Runnable을 만드는 다양한 방법.md",
-    "Study/Java/3. Java 고급/5. 데몬 스레드, 스레드 생성 - Runnable.md",
-    "Study/Java/3. Java 고급/3. 스레드 사용 시점 리스트.md",
     "Study/Java/3. Java 고급",
     "Study/Java/이미지/예외 클래스 계층 구조.png",
     "Study/Java/이미지/리스트 인터페이스 구조.png",
@@ -224,8 +240,6 @@
     "Study/PDF 파일/1. TCP IP.pdf",
     "Study/PDF 파일/네트워크 정리.pdf",
     "Study/Java/Java 기본/무제 폴더",
-    "Study/Java/1. Java 기본",
-    "Study/Java",
     "Study/스프링/이미지/인텔리제이 기본설정2.png",
     "Study/스프링/이미지/인텔리제이 기본설정1.png",
     "스크린샷 2024-10-01 오후 8.03.32.png",

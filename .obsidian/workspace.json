@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/스프링/1. 기본/2. 스프링 컨테이너 BeanFactory와 ApplicationContext.md",
+                "file": "Study/스프링/1. 기본/1. 제어의 역전 IoC,의존관계 주입 DI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 스프링 컨테이너 BeanFactory와 ApplicationContext"
+              "title": "1. 제어의 역전 IoC,의존관계 주입 DI"
             }
           }
         ]
@@ -183,11 +183,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e22cf474bef7a1e7",
+  "active": "fd944b9485cf77e4",
   "lastOpenFiles": [
     "Study/스프링/1. 기본/2. 스프링 컨테이너 BeanFactory와 ApplicationContext.md",
-    "Study/Java/3. Java 고급/24. Executor 스레드 풀 관리.md",
+    "Study/코딩 테스트/기본 문제/문자열의 숫자들 더하기 (Character).md",
+    "Study/코딩 테스트/기본 문제/대문자는 소문자로, 소문자는 대문자로 변환 (Character).md",
     "Study/스프링/1. 기본/1. 제어의 역전 IoC,의존관계 주입 DI.md",
+    "Study/Java/3. Java 고급/24. Executor 스레드 풀 관리.md",
     "Study/객체지향 설계/1. SOLID 원칙.md",
     "Study/객체지향 설계",
     "Study/스프링/1. 기본",
@@ -211,8 +213,6 @@
     "Study/Java/3. Java 고급/10. 스레드의 interrupt(), currentThread().isInterrupted(), interrupted(), yield().md",
     "Study/Java/3. Java 고급/9. 스레드 join().md",
     "Study/Java/3. Java 고급/4. 스레드 생성하기.md",
-    "Study/Java/3. Java 고급/8. 체크 예외 재정의에 대한 이해.md",
-    "Study/Java/3. Java 고급/7. 자바 스레드 기본 개념.md",
     "Study/Java/3. Java 고급",
     "Study/Java/이미지/예외 클래스 계층 구조.png",
     "Study/Java/이미지/리스트 인터페이스 구조.png",

@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "1. 제어의 역전 IoC,의존관계 주입 DI"
             }
+          },
+          {
+            "id": "dac1d92ee5e0cf3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/스프링/1. 기본/3. 싱글톤 컨테이너.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. 싱글톤 컨테이너"
+            }
+          },
+          {
+            "id": "0eee10a182f1c951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/스프링/1. 기본/4. @Configuration과 CGLIB의 역할 이해.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. @Configuration과 CGLIB의 역할 이해"
+            }
+          },
+          {
+            "id": "622eee837b491c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/스프링/1. 기본/4. @Configuration과 CGLIB의 역할 이해.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. @Configuration과 CGLIB의 역할 이해"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,12 +226,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "fd944b9485cf77e4",
+  "active": "622eee837b491c85",
   "lastOpenFiles": [
+    "Study/스프링/1. 기본/3. 싱글톤 컨테이너.md",
+    "Study/스프링/1. 기본/3. @Configuration.md",
+    "Study/스프링/1. 기본/4. @Configuration과 CGLIB의 역할 이해.md",
+    "Study/스프링/1. 기본/1. 제어의 역전 IoC,의존관계 주입 DI.md",
     "Study/스프링/1. 기본/2. 스프링 컨테이너 BeanFactory와 ApplicationContext.md",
     "Study/코딩 테스트/기본 문제/문자열의 숫자들 더하기 (Character).md",
     "Study/코딩 테스트/기본 문제/대문자는 소문자로, 소문자는 대문자로 변환 (Character).md",
-    "Study/스프링/1. 기본/1. 제어의 역전 IoC,의존관계 주입 DI.md",
     "Study/Java/3. Java 고급/24. Executor 스레드 풀 관리.md",
     "Study/객체지향 설계/1. SOLID 원칙.md",
     "Study/객체지향 설계",
@@ -210,9 +256,6 @@
     "Study/Java/Java 클래스 정리/래퍼 클래스.md",
     "Study/Java/Java 클래스 정리/Character 클래스.md",
     "Study/Java/3. Java 고급/12. 메모리 접근 방식과 메모리 가시성.md",
-    "Study/Java/3. Java 고급/10. 스레드의 interrupt(), currentThread().isInterrupted(), interrupted(), yield().md",
-    "Study/Java/3. Java 고급/9. 스레드 join().md",
-    "Study/Java/3. Java 고급/4. 스레드 생성하기.md",
     "Study/Java/3. Java 고급",
     "Study/Java/이미지/예외 클래스 계층 구조.png",
     "Study/Java/이미지/리스트 인터페이스 구조.png",

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7b8659fa49608f6f",
+        "id": "9682b6aad960b5bf",
         "type": "tabs",
         "children": [
           {
-            "id": "8e24ae28f89be195",
+            "id": "5b2983a4ca86acba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/스프링/1. 기본/5. 컴포넌트 스캔과 의존관계 자동 주입.md",
+                "file": "Study/스프링/1. 기본/6. 컴포넌트 스캔과 의존관계 자동 주입.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 컴포넌트 스캔과 의존관계 자동 주입"
-            }
-          },
-          {
-            "id": "9154cf3cb799728a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/스프링/1. 기본/5. 컴포넌트 스캔과 의존관계 자동 주입.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. 컴포넌트 스캔과 의존관계 자동 주입"
+              "title": "6. 컴포넌트 스캔과 의존관계 자동 주입"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +183,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "9154cf3cb799728a",
+  "active": "5b2983a4ca86acba",
   "lastOpenFiles": [
     "Study/스프링/1. 기본/5. @ComponentScan.md",
-    "Study/스프링/1. 기본/5. 컴포넌트 스캔과 의존관계 자동 주입.md",
+    "Study/스프링/1. 기본/6. 컴포넌트 스캔과 의존관계 자동 주입.md",
     "Study/스프링/1. 기본/4. @Configuration과 CGLIB의 역할 이해.md",
     "Study/스프링/1. 기본/3. 싱글톤 컨테이너.md",
     "Study/스프링/1. 기본/3. @Configuration.md",

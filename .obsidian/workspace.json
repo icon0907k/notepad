@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9682b6aad960b5bf",
+        "id": "6385accaa5b2b7c1",
         "type": "tabs",
         "children": [
           {
-            "id": "5b2983a4ca86acba",
+            "id": "062dbbd4c162a318",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "6. 컴포넌트 스캔과 의존관계 자동 주입"
             }
+          },
+          {
+            "id": "5897d7533f41134f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/스프링/1. 기본/7. 의존관계 주입 방법 리스트 (RequiredArgsConstructor 권장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. 의존관계 주입 방법 리스트 (RequiredArgsConstructor 권장)"
+            }
+          },
+          {
+            "id": "8d59aa0e8b5952cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/스프링/1. 기본/8. 조회 빈이 2개 이상인 경우 문제.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. 조회 빈이 2개 이상인 경우 문제"
+            }
+          },
+          {
+            "id": "f7e1992f557980d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/스프링/1. 기본/9. 조회한 빈이 모두 필요할 때 (전략 패턴).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. 조회한 빈이 모두 필요할 때 (전략 패턴)"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,10 +226,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5b2983a4ca86acba",
+  "active": "f7e1992f557980d5",
   "lastOpenFiles": [
-    "Study/스프링/1. 기본/5. @ComponentScan.md",
+    "Study/스프링/1. 기본/8. 조회 빈이 2개 이상인 경우 문제.md",
+    "Study/스프링/1. 기본/9. 조회한 빈이 모두 필요할 때 (전략 패턴).md",
+    "Study/스프링/1. 기본/7. 의존관계 주입 방법 리스트 (RequiredArgsConstructor 권장).md",
     "Study/스프링/1. 기본/6. 컴포넌트 스캔과 의존관계 자동 주입.md",
+    "Study/스프링/1. 기본/5. @ComponentScan.md",
     "Study/스프링/1. 기본/4. @Configuration과 CGLIB의 역할 이해.md",
     "Study/스프링/1. 기본/3. 싱글톤 컨테이너.md",
     "Study/스프링/1. 기본/3. @Configuration.md",
@@ -210,9 +256,6 @@
     "Study/Java/3. Java 고급/15. Object 클래스의 스레드.md",
     "Study/Java/3. Java 고급/16. Condition 인터페이스.md",
     "Study/Java/3. Java 고급/14. 고급 동기화 synchronized의 한계, LockSupport, ReentrantLock.md",
-    "Study/Java/3. Java 고급/13. 동기화(synchronized).md",
-    "Study/Java/3. Java 고급/11. volatile과 메모리 가시성 이해하기.md",
-    "Study/Java/Java 클래스 정리/래퍼 클래스.md",
     "Study/Java/3. Java 고급",
     "Study/Java/이미지/예외 클래스 계층 구조.png",
     "Study/Java/이미지/리스트 인터페이스 구조.png",

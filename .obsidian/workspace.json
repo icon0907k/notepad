@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ede3f193900630a9",
+        "id": "9e8412a027d141f0",
         "type": "tabs",
         "children": [
           {
-            "id": "16493972dfce728b",
+            "id": "aef67dc08d4e86af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/HTTP/3. HTTP 웹 기본 지식.md",
+                "file": "Study/HTTP/5. RESTful API 설계에서 HTTP 메서드 이해.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. HTTP 웹 기본 지식"
-            }
-          },
-          {
-            "id": "8ec71214ba2e3908",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/HTTP/무제 파일.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "5. RESTful API 설계에서 HTTP 메서드 이해"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +183,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "8ec71214ba2e3908",
+  "active": "aef67dc08d4e86af",
   "lastOpenFiles": [
-    "Study/HTTP/4. HTTP 메서드 활용.md",
-    "Study/HTTP/무제 파일.md",
+    "Study/HTTP/4. HTTP 메서드 데이터 전송 방식.md",
+    "Study/HTTP/5. RESTful API 설계에서 HTTP 메서드 이해.md",
     "Study/HTTP/3. HTTP 웹 기본 지식.md",
     "Study/HTTP/1. 인터넷 통신, IP, TCP, UDP, PORT, DNS.md",
     "Study/HTTP/2. URI와 웹 브라우저 요청 흐름.md",

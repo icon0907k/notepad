@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/HTTP/8. HTTP 캐시와 조건부 요청.md",
+                "file": "Study/스프링/2. MVC/1. 스프링 MVC 웹 애플리케이션의 이해와 구성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. HTTP 캐시와 조건부 요청"
+              "title": "1. 스프링 MVC 웹 애플리케이션의 이해와 구성"
             }
           }
         ],
@@ -200,8 +200,11 @@
   },
   "active": "e2f60269b74400e1",
   "lastOpenFiles": [
-    "Study/HTTP/7. HTTP 헤더.md",
+    "무제 파일.md",
+    "Study/스프링/2. MVC/1. 스프링 MVC 웹 애플리케이션의 이해와 구성.md",
+    "Study/스프링/2. MVC",
     "Study/HTTP/8. HTTP 캐시와 조건부 요청.md",
+    "Study/HTTP/7. HTTP 헤더.md",
     "Study/스프링/1. 기본/1. 제어의 역전 IoC,의존관계 주입 DI.md",
     "Study/HTTP/6. HTTP 상태 코드.md",
     "Study/HTTP/5. RESTful API 설계에서 HTTP 메서드 이해.md",
@@ -226,8 +229,6 @@
     "Study/스프링/1. 기본/3. @Configuration.md",
     "Study/스프링/1. 기본/2. 스프링 컨테이너 BeanFactory와 ApplicationContext.md",
     "Study/코딩 테스트/기본 문제/문자열의 숫자들 더하기 (Character).md",
-    "Study/코딩 테스트/기본 문제/대문자는 소문자로, 소문자는 대문자로 변환 (Character).md",
-    "Study/Java/3. Java 고급/24. Executor 스레드 풀 관리.md",
     "Study/객체지향 설계",
     "Study/스프링/1. 기본",
     "Study/Java/3. Java 고급",
@@ -240,7 +241,6 @@
     "Study/이미지/CICD.png",
     "Study/Java/2. Java 중급",
     "Study/PDF 파일/18. JWT , OAuth 사용.pdf",
-    "Study/PDF 파일/1. TCP IP.pdf",
     "Study/스프링/이미지/인텔리제이 기본설정2.png",
     "Study/스프링/이미지/인텔리제이 기본설정1.png",
     "스크린샷 2024-10-01 오후 8.03.32.png",

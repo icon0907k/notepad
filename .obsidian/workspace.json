@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "14. 스프링 부트 프로젝트 생성과 상품 관리 시스템 구축"
             }
+          },
+          {
+            "id": "2a9ddbe831d13bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/스프링/3. MVC/2. 타임리프(Thymeleaf) 소개.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. 타임리프(Thymeleaf) 소개"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "3168bc2156fe4df7",
@@ -184,9 +198,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "12e6f7abfdfb28ea",
+  "active": "fd944b9485cf77e4",
   "lastOpenFiles": [
+    "Study/스프링/3. MVC/1. 타임리프(Thymeleaf) 하기전 프로젝트 기본 설정.md",
+    "Study/스프링/3. MVC/2. 타임리프(Thymeleaf) 소개.md",
     "Study/스프링/2. MVC/14. 스프링 부트 프로젝트 생성과 상품 관리 시스템 구축.md",
+    "Study/스프링/3. MVC",
     "Study/스프링/2. MVC/13. HTTP 메시지 컨버터 스프링에서의 역할과 동작 원리.md",
     "Study/스프링/2. MVC/12. HTTP 응답 처리 정적 리소스와 뷰 템플릿의 이해.md",
     "Study/스프링/2. MVC/11. HTTP 요청 파라미터 처리 2.md",
@@ -210,8 +227,6 @@
     "Study/스프링/2. MVC/1. 스프링 MVC 웹 애플리케이션의 이해와 구성.md",
     "Study/스프링/1. 기본/3. @Configuration.md",
     "Study/스프링/1. 기본/2. 스프링 컨테이너 BeanFactory와 ApplicationContext.md",
-    "Study/스프링/1. 기본/1. 제어의 역전 IoC,의존관계 주입 DI.md",
-    "Study/스프링/1. 기본/12. 빈 스코프 (Bean Scope) 싱글톤, 프로토타입.md",
     "Study/스프링/2. MVC",
     "Study/HTTP",
     "Study/HTTP",
@@ -226,7 +241,6 @@
     "Study/기초 지식 강화/이미지/tcp-handshake-1.png",
     "Study/이미지/CICD.png",
     "Study/Java/2. Java 중급",
-    "Study/PDF 파일/18. JWT , OAuth 사용.pdf",
     "Study/스프링/이미지/인텔리제이 기본설정2.png",
     "Study/스프링/이미지/인텔리제이 기본설정1.png",
     "스크린샷 2024-10-01 오후 8.03.32.png",

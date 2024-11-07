@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "2. 타임리프(Thymeleaf) 소개"
             }
+          },
+          {
+            "id": "40f85b6abaef2432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/스프링/3. MVC/3. 타임리프(Thymeleaf)를 활용한 폼 처리 예시 (체크박스 및 셀렉트 박스 포함).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. 타임리프(Thymeleaf)를 활용한 폼 처리 예시 (체크박스 및 셀렉트 박스 포함)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,10 +212,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "fd944b9485cf77e4",
+  "active": "40f85b6abaef2432",
   "lastOpenFiles": [
-    "Study/스프링/3. MVC/1. 타임리프(Thymeleaf) 하기전 프로젝트 기본 설정.md",
     "Study/스프링/3. MVC/2. 타임리프(Thymeleaf) 소개.md",
+    "Study/스프링/3. MVC/1. 타임리프(Thymeleaf) 하기전 프로젝트 기본 설정.md",
+    "Study/스프링/3. MVC/3. 타임리프(Thymeleaf)를 활용한 폼 처리 예시 (체크박스 및 셀렉트 박스 포함).md",
+    "Study/스프링/3. MVC/4. 체크 박스 처리 히든 필드와 타임리프를 활용.md",
     "Study/스프링/2. MVC/14. 스프링 부트 프로젝트 생성과 상품 관리 시스템 구축.md",
     "Study/스프링/3. MVC",
     "Study/스프링/2. MVC/13. HTTP 메시지 컨버터 스프링에서의 역할과 동작 원리.md",
@@ -225,8 +241,6 @@
     "Study/HTTP/2. URI와 웹 브라우저 요청 흐름.md",
     "Study/HTTP/1. 인터넷 통신, IP, TCP, UDP, PORT, DNS.md",
     "Study/스프링/2. MVC/1. 스프링 MVC 웹 애플리케이션의 이해와 구성.md",
-    "Study/스프링/1. 기본/3. @Configuration.md",
-    "Study/스프링/1. 기본/2. 스프링 컨테이너 BeanFactory와 ApplicationContext.md",
     "Study/스프링/2. MVC",
     "Study/HTTP",
     "Study/HTTP",

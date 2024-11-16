@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "335146a0a8f03e23",
+        "id": "6f90343d79e65c54",
         "type": "tabs",
         "children": [
           {
-            "id": "12e6f7abfdfb28ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/스프링/2. MVC/14. 스프링 부트 프로젝트 생성과 상품 관리 시스템 구축.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14. 스프링 부트 프로젝트 생성과 상품 관리 시스템 구축"
-            }
-          },
-          {
-            "id": "2a9ddbe831d13bd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/스프링/3. MVC/2. 타임리프(Thymeleaf) 소개.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. 타임리프(Thymeleaf) 소개"
-            }
-          },
-          {
-            "id": "40f85b6abaef2432",
+            "id": "1e3e7660d694225a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,9 +20,23 @@
               "icon": "lucide-file",
               "title": "3. 타임리프(Thymeleaf)를 활용한 폼 처리 예시 (체크박스 및 셀렉트 박스 포함)"
             }
+          },
+          {
+            "id": "48c1c42859e41786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/스프링/3. MVC/4. 스프링에서의 국제화 기능.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. 스프링에서의 국제화 기능"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "3168bc2156fe4df7",
@@ -212,26 +199,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "40f85b6abaef2432",
+  "active": "48c1c42859e41786",
   "lastOpenFiles": [
+    "Study/스프링/3. MVC/3. 타임리프(Thymeleaf)를 활용한 폼 처리 예시 (체크박스 및 셀렉트 박스 포함).md",
+    "Study/스프링/3. MVC/4. 스프링에서의 국제화 기능.md",
     "Study/스프링/3. MVC/2. 타임리프(Thymeleaf) 소개.md",
     "Study/스프링/3. MVC/1. 타임리프(Thymeleaf) 하기전 프로젝트 기본 설정.md",
-    "Study/스프링/3. MVC/3. 타임리프(Thymeleaf)를 활용한 폼 처리 예시 (체크박스 및 셀렉트 박스 포함).md",
-    "Study/스프링/3. MVC/4. 체크 박스 처리 히든 필드와 타임리프를 활용.md",
-    "Study/스프링/2. MVC/14. 스프링 부트 프로젝트 생성과 상품 관리 시스템 구축.md",
-    "Study/스프링/3. MVC",
-    "Study/스프링/2. MVC/13. HTTP 메시지 컨버터 스프링에서의 역할과 동작 원리.md",
-    "Study/스프링/2. MVC/12. HTTP 응답 처리 정적 리소스와 뷰 템플릿의 이해.md",
-    "Study/스프링/2. MVC/11. HTTP 요청 파라미터 처리 2.md",
-    "Study/스프링/2. MVC/10. HTTP 요청 파라미터 1.md",
-    "Study/스프링/2. MVC/8. Spring MVC의 요청 매핑 기초부터 고급까지.md",
-    "Study/스프링/2. MVC/9. HTTP 요청 - 기본, 헤더 조회.md",
-    "Study/스프링/2. MVC/7. Spring Boot 시작하기 Welcome 페이지 및 로깅 이해하기.md",
-    "Study/스프링/2. MVC/6. 스프링 MVC 시작.md",
-    "Study/스프링/2. MVC/5. 직접 만든 MVC 프레임워크 구조 VS Spring MVC 구조.md",
-    "Study/스프링/2. MVC/4. 프론트 컨트롤러 패턴 V1, V2, V3, V4, V5.md",
-    "Study/스프링/2. MVC/3. 서블릿, JSP, MVC 패턴.md",
-    "Study/스프링/2. MVC/2. 서블릿 개요.md",
     "Study/HTTP/8. HTTP 캐시와 조건부 요청.md",
     "Study/HTTP/7. HTTP 헤더.md",
     "Study/HTTP/6. HTTP 상태 코드.md",
@@ -240,14 +213,28 @@
     "Study/HTTP/3. HTTP 웹 기본 지식.md",
     "Study/HTTP/2. URI와 웹 브라우저 요청 흐름.md",
     "Study/HTTP/1. 인터넷 통신, IP, TCP, UDP, PORT, DNS.md",
+    "Study/스프링/1. 기본/1. 제어의 역전 IoC,의존관계 주입 DI.md",
+    "Study/Java/이미지/예외 클래스 계층 구조.png",
+    "Study/객체지향 설계/1. SOLID 원칙.md",
+    "Study/스프링/2. MVC/10. HTTP 요청 파라미터 1.md",
+    "Study/스프링/2. MVC/9. HTTP 요청 - 기본, 헤더 조회.md",
+    "Study/스프링/2. MVC/7. Spring Boot 시작하기 Welcome 페이지 및 로깅 이해하기.md",
+    "Study/스프링/2. MVC/6. 스프링 MVC 시작.md",
+    "Study/스프링/2. MVC/5. 직접 만든 MVC 프레임워크 구조 VS Spring MVC 구조.md",
+    "Study/스프링/2. MVC/4. 프론트 컨트롤러 패턴 V1, V2, V3, V4, V5.md",
+    "Study/스프링/2. MVC/2. 서블릿 개요.md",
     "Study/스프링/2. MVC/1. 스프링 MVC 웹 애플리케이션의 이해와 구성.md",
+    "Study/Java/1. Java 기본/4. 생성자 사용, this  사용.md",
+    "Study/Java/1. Java 기본/3. 객체 지향 프로그래밍 vs 절차 지향 프로그래밍.md",
+    "Study/Java/1. Java 기본/2. 기본형 vs 참조형 자바의 데이터 타입 이해.md",
+    "Study/Java/1. Java 기본/1. 클래스(Class)와 객체(Object), 인스턴스(Instance)의 차이점.md",
+    "Study/스프링/3. MVC",
     "Study/스프링/2. MVC",
     "Study/HTTP",
     "Study/HTTP",
     "Study/객체지향 설계",
     "Study/스프링/1. 기본",
     "Study/Java/3. Java 고급",
-    "Study/Java/이미지/예외 클래스 계층 구조.png",
     "Study/Java/이미지/리스트 인터페이스 구조.png",
     "Study/Java/2.1 Java 중급",
     "Study/Java/이미지/예외 계층 구조.png",

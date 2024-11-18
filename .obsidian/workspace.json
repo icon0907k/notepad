@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "90d4e83f20fe8759",
+        "id": "19b874a046bbdc8f",
         "type": "tabs",
         "children": [
           {
-            "id": "d33ab30427f8373f",
+            "id": "6b74144aad979ed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/스프링/3. MVC/13. 서블릿 필터 사용.md",
+                "file": "Study/스프링/3. MVC/15. ArgumentResolver 사용 로그인 세션 체크 처리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. 서블릿 필터 사용"
+              "title": "15. ArgumentResolver 사용 로그인 세션 체크 처리"
             }
           }
         ]
@@ -184,11 +184,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d33ab30427f8373f",
+  "active": "6b74144aad979ed5",
   "lastOpenFiles": [
-    "Study/스프링/3. MVC/13. 서블릿 필터 사용.md",
-    "Study/스프링/3. MVC/11. HttpSession 사용하기.md",
     "Study/스프링/3. MVC/12. JSESSIONID와 URL 문제 해결.md",
+    "Study/스프링/3. MVC/15. ArgumentResolver 사용 로그인 세션 체크 처리.md",
+    "Study/스프링/3. MVC/11. HttpSession 사용하기.md",
+    "Study/스프링/3. MVC/13. 서블릿 필터 사용.md",
+    "Study/스프링/3. MVC/14. 스프링 인터셉터.md",
     "Study/스프링/3. MVC/10. 로그인 처리와 세션 관리 쿠키와 세션 사용.md",
     "Study/스프링/3. MVC/9. 로그인 처리와 쿠키 사용 세션 유지와 보안 문제 해결.md",
     "Study/스프링/3. MVC/8. 전역 예외 처리기(@RestControllerAdvice)로 더 나은 오류 처리 구현하기.md",
@@ -211,8 +213,6 @@
     "Study/Java/이미지/예외 클래스 계층 구조.png",
     "Study/객체지향 설계/1. SOLID 원칙.md",
     "Study/스프링/2. MVC/10. HTTP 요청 파라미터 1.md",
-    "Study/스프링/2. MVC/9. HTTP 요청 - 기본, 헤더 조회.md",
-    "Study/스프링/2. MVC/7. Spring Boot 시작하기 Welcome 페이지 및 로깅 이해하기.md",
     "Study/스프링/3. MVC",
     "Study/스프링/2. MVC",
     "Study/HTTP",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c665196246c27a",
+        "id": "da71a454f370e4f0",
         "type": "tabs",
         "children": [
           {
-            "id": "d84eb11f8b17530d",
+            "id": "74e87ce973eb81e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,13 +184,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d84eb11f8b17530d",
+  "active": "74e87ce973eb81e5",
   "lastOpenFiles": [
-    "Study/스프링/3. MVC/무제 파일 3.md",
+    "Study/스프링/3. MVC/17..md",
     "Study/스프링/3. MVC/16. Java에서의 예외 처리와 서블릿 컨테이너의 동작 원리.md",
+    "Study/스프링/3. MVC/무제 파일 3.md",
     "Study/스프링/3. MVC/무제 파일 2.md",
     "Study/스프링/3. MVC/무제 파일 1.md",
-    "Study/스프링/3. MVC/무제 파일.md",
     "Study/스프링/3. MVC/15. ArgumentResolver 사용 로그인 세션 체크 처리.md",
     "Study/스프링/3. MVC/12. JSESSIONID와 URL 문제 해결.md",
     "Study/스프링/3. MVC/11. HttpSession 사용하기.md",

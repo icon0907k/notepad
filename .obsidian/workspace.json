@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "19b874a046bbdc8f",
+        "id": "c8c665196246c27a",
         "type": "tabs",
         "children": [
           {
-            "id": "6b74144aad979ed5",
+            "id": "d84eb11f8b17530d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/스프링/3. MVC/15. ArgumentResolver 사용 로그인 세션 체크 처리.md",
+                "file": "Study/스프링/3. MVC/16. Java에서의 예외 처리와 서블릿 컨테이너의 동작 원리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. ArgumentResolver 사용 로그인 세션 체크 처리"
+              "title": "16. Java에서의 예외 처리와 서블릿 컨테이너의 동작 원리"
             }
           }
         ]
@@ -184,10 +184,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "6b74144aad979ed5",
+  "active": "d84eb11f8b17530d",
   "lastOpenFiles": [
-    "Study/스프링/3. MVC/12. JSESSIONID와 URL 문제 해결.md",
+    "Study/스프링/3. MVC/무제 파일 3.md",
+    "Study/스프링/3. MVC/16. Java에서의 예외 처리와 서블릿 컨테이너의 동작 원리.md",
+    "Study/스프링/3. MVC/무제 파일 2.md",
+    "Study/스프링/3. MVC/무제 파일 1.md",
+    "Study/스프링/3. MVC/무제 파일.md",
     "Study/스프링/3. MVC/15. ArgumentResolver 사용 로그인 세션 체크 처리.md",
+    "Study/스프링/3. MVC/12. JSESSIONID와 URL 문제 해결.md",
     "Study/스프링/3. MVC/11. HttpSession 사용하기.md",
     "Study/스프링/3. MVC/13. 서블릿 필터 사용.md",
     "Study/스프링/3. MVC/14. 스프링 인터셉터.md",
@@ -207,12 +212,7 @@
     "Study/HTTP/5. RESTful API 설계에서 HTTP 메서드 이해.md",
     "Study/HTTP/4. HTTP 메서드 데이터 전송 방식.md",
     "Study/HTTP/3. HTTP 웹 기본 지식.md",
-    "Study/HTTP/2. URI와 웹 브라우저 요청 흐름.md",
-    "Study/HTTP/1. 인터넷 통신, IP, TCP, UDP, PORT, DNS.md",
-    "Study/스프링/1. 기본/1. 제어의 역전 IoC,의존관계 주입 DI.md",
     "Study/Java/이미지/예외 클래스 계층 구조.png",
-    "Study/객체지향 설계/1. SOLID 원칙.md",
-    "Study/스프링/2. MVC/10. HTTP 요청 파라미터 1.md",
     "Study/스프링/3. MVC",
     "Study/스프링/2. MVC",
     "Study/HTTP",

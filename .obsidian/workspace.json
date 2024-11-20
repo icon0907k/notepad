@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "26f880a55d58a986",
+        "id": "3f82858559cc75f8",
         "type": "tabs",
         "children": [
           {
-            "id": "6494c89ca80189ec",
+            "id": "cd2368bea6049c63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/스프링/3. MVC/22. API 예외 처리  @ExceptionHandler.md",
+                "file": "Study/스프링/3. MVC/23.  API 예외 처리 @ControllerAdvice로 @ExceptionHandler 예외 처리 그룹화 나누기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22. API 예외 처리  @ExceptionHandler"
+              "title": "23.  API 예외 처리 @ControllerAdvice로 @ExceptionHandler 예외 처리 그룹화 나누기"
             }
           }
         ]
@@ -184,10 +184,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "6494c89ca80189ec",
+  "active": "cd2368bea6049c63",
   "lastOpenFiles": [
-    "Study/스프링/3. MVC/21.  API 예외 처리 ExceptionResolver 예외 처리.md",
     "Study/스프링/3. MVC/22. API 예외 처리  @ExceptionHandler.md",
+    "Study/스프링/3. MVC/23.  API 예외 처리 @ControllerAdvice로 @ExceptionHandler 예외 처리 그룹화 나누기.md",
+    "Study/스프링/3. MVC/21.  API 예외 처리 ExceptionResolver 예외 처리.md",
     "Study/스프링/3. MVC/20. API 예외 처리 HandlerExceptionResolver 사용.md",
     "Study/스프링/3. MVC/19. API 예외 처리.md",
     "Study/스프링/3. MVC/18. 서블릿 예외 처리 인터셉터 활용법 및 스프링에서 예외 처리와 동작 원리.md",
@@ -211,7 +212,6 @@
     "Study/HTTP/8. HTTP 캐시와 조건부 요청.md",
     "Study/HTTP/7. HTTP 헤더.md",
     "Study/HTTP/6. HTTP 상태 코드.md",
-    "Study/HTTP/5. RESTful API 설계에서 HTTP 메서드 이해.md",
     "Study/Java/이미지/예외 클래스 계층 구조.png",
     "Study/스프링/3. MVC",
     "Study/스프링/2. MVC",

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "74c9a02962063b01",
+        "id": "d5b18b25b5605e3f",
         "type": "tabs",
         "children": [
           {
-            "id": "a52a715115d1499f",
+            "id": "03ec331fe2b64590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/스프링/3. MVC/19. API 예외 처리.md",
+                "file": "Study/코딩 테스트/기본 문제/기본. 두 분수의 합을 기약 분수로 표현하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19. API 예외 처리"
+              "title": "기본. 두 분수의 합을 기약 분수로 표현하기"
+            }
+          },
+          {
+            "id": "09c4caf0c529958a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/코딩 테스트/기본 문제/기본. 정수 배열의 각 원소를 두배로 만들기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "기본. 정수 배열의 각 원소를 두배로 만들기"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +198,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a52a715115d1499f",
+  "active": "09c4caf0c529958a",
   "lastOpenFiles": [
+    "Study/코딩 테스트/기본 문제/기본. 두 분수의 합을 기약 분수로 표현하기.md",
+    "Study/코딩 테스트/기본 문제/기본. 정수 배열의 각 원소를 두배로 만들기.md",
+    "Study/코딩 테스트/기본 문제/문자열의 숫자들 더하기 (Character).md",
+    "Study/코딩 테스트/기본 문제/대문자는 소문자로, 소문자는 대문자로 변환 (Character).md",
+    "Study/스프링/3. MVC/19. API 예외 처리.md",
     "Study/스프링/3. MVC/18. 서블릿 예외 처리 인터셉터 활용법 및 스프링에서 예외 처리와 동작 원리.md",
     "Study/스프링/3. MVC/20. API 예외 처리 HandlerExceptionResolver 사용.md",
     "Study/스프링/3. MVC/21.  API 예외 처리 ExceptionResolver 예외 처리.md",
@@ -193,7 +213,6 @@
     "Study/스프링/3. MVC/3. 타임리프(Thymeleaf)를 활용한 폼 처리 예시 (체크박스 및 셀렉트 박스 포함).md",
     "Study/스프링/3. MVC/2. 타임리프(Thymeleaf) 하기전 프로젝트 기본 설정.md",
     "Study/스프링/3. MVC/1. 타임리프(Thymeleaf) 소개.md",
-    "Study/스프링/3. MVC/19. API 예외 처리.md",
     "Study/스프링/3. MVC/17. 서블릿 예외 처리 필터 활용법.md",
     "Study/스프링/3. MVC/16. Java에서의 예외 처리와 서블릿 컨테이너의 동작 원리.md",
     "Study/스프링/3. MVC/15. ArgumentResolver 사용 로그인 세션 체크 처리.md",
@@ -207,10 +226,6 @@
     "Study/스프링/3. MVC/7. Bean Validation 사용 법.md",
     "Study/스프링/3. MVC/6. Spring MVC의 Validation 기능.md",
     "Study/스프링/3. MVC/5. Spring에서 다국어 메시지 처리의 우선순위.md",
-    "Study/스프링/3. MVC/4. 스프링에서의 국제화 기능.md",
-    "Study/HTTP/8. HTTP 캐시와 조건부 요청.md",
-    "Study/HTTP/7. HTTP 헤더.md",
-    "Study/HTTP/6. HTTP 상태 코드.md",
     "Study/Java/이미지/예외 클래스 계층 구조.png",
     "Study/스프링/3. MVC",
     "Study/스프링/2. MVC",

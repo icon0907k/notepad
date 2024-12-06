@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d5b18b25b5605e3f",
+        "id": "5f14f8d707c1b607",
         "type": "tabs",
         "children": [
           {
-            "id": "03ec331fe2b64590",
+            "id": "87bf9530809f4783",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/코딩 테스트/기본 문제/기본. 두 분수의 합을 기약 분수로 표현하기.md",
+                "file": "Study/코딩 테스트/기본 문제/기본. 홀수 값 구하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "기본. 두 분수의 합을 기약 분수로 표현하기"
-            }
-          },
-          {
-            "id": "09c4caf0c529958a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/코딩 테스트/기본 문제/기본. 정수 배열의 각 원소를 두배로 만들기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "기본. 정수 배열의 각 원소를 두배로 만들기"
+              "title": "기본. 홀수 값 구하기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,9 +183,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "09c4caf0c529958a",
+  "active": "87bf9530809f4783",
   "lastOpenFiles": [
+    "Study/코딩 테스트/기본 문제/기본. 최빈값 구하기.md",
+    "Study/코딩 테스트/기본 문제/기본. 홀수 값 구하기.md",
     "Study/코딩 테스트/기본 문제/기본. 두 분수의 합을 기약 분수로 표현하기.md",
+    "Study/코딩 테스트/기본 문제/기본. 배열의 중앙값 구하기.md",
     "Study/코딩 테스트/기본 문제/기본. 정수 배열의 각 원소를 두배로 만들기.md",
     "Study/코딩 테스트/기본 문제/문자열의 숫자들 더하기 (Character).md",
     "Study/코딩 테스트/기본 문제/대문자는 소문자로, 소문자는 대문자로 변환 (Character).md",
@@ -223,9 +211,6 @@
     "Study/스프링/3. MVC/10. 로그인 처리와 세션 관리 쿠키와 세션 사용.md",
     "Study/스프링/3. MVC/9. 로그인 처리와 쿠키 사용 세션 유지와 보안 문제 해결.md",
     "Study/스프링/3. MVC/8. 전역 예외 처리기(@RestControllerAdvice)로 더 나은 오류 처리 구현하기.md",
-    "Study/스프링/3. MVC/7. Bean Validation 사용 법.md",
-    "Study/스프링/3. MVC/6. Spring MVC의 Validation 기능.md",
-    "Study/스프링/3. MVC/5. Spring에서 다국어 메시지 처리의 우선순위.md",
     "Study/Java/이미지/예외 클래스 계층 구조.png",
     "Study/스프링/3. MVC",
     "Study/스프링/2. MVC",

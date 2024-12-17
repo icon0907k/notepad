@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "36c0a5247bc5b2f2",
+        "id": "8f4a6971b085ab58",
         "type": "tabs",
         "children": [
           {
-            "id": "e38d0987704a0220",
+            "id": "48d0b6dada5a4c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/스프링/3. MVC/33. 파일 업로드 소개 3 직접 만들기.md",
+                "file": "Study/스프링/4. 고급/3. 예제 프로젝트 3 (V2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "33. 파일 업로드 소개 3 직접 만들기"
+              "title": "3. 예제 프로젝트 3 (V2)"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "3168bc2156fe4df7",
@@ -183,11 +184,23 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e38d0987704a0220",
+  "active": "48d0b6dada5a4c90",
   "lastOpenFiles": [
+    "Study/스프링/4. 고급/4. 예제 프로젝트 4 (V2).md",
+    "Study/스프링/4. 고급/3. 예제 프로젝트 3 (V2).md",
+    "Study/스프링/4. 고급/2. 예제 프로젝트 2 (V1).md",
+    "Study/스프링/4. 고급/1. 스프링 프레임워크의 기본 흐름 이해를 위한 예제 프로젝트 1 (V0).md",
+    "Study/기초 지식 강화/1.2. 네트워크/18. JWT , OAuth 사용.md",
+    "Study/스프링/4. 고급",
+    "Study/객체지향 설계/1. SOLID 원칙.md",
+    "Study/코딩 테스트/기본 문제/기본. 홀수 값 구하기.md",
+    "Study/코딩 테스트/기본 문제/기본. 최빈값 구하기.md",
+    "Study/코딩 테스트/기본 문제/기본. 정수 배열의 각 원소를 두배로 만들기.md",
+    "Study/코딩 테스트/기본 문제/기본. 배열의 중앙값 구하기.md",
+    "Study/코딩 테스트/기본 문제/기본. 두 분수의 합을 기약 분수로 표현하기.md",
+    "Study/스프링/3. MVC/33. 파일 업로드 소개 3 직접 만들기.md",
     "Study/스프링/3. MVC/32. 파일 업로드 소개 2 서블릿과 스프링 이용 방식 차이.md",
     "Study/스프링/3. MVC/31. 파일 업로드 소개 1.md",
-    "Study/스프링/3. MVC/33. 파일 업로드 소개 3 직접 만들기.md",
     "Study/스프링/3. MVC/30. 컨버전 서비스와 메시지 컨버터 차이점.md",
     "Study/스프링/3. MVC/29. 스프링이 제공하는 기본 포맷터.md",
     "Study/스프링/3. MVC/28. Converter와 Formatter의 차이.md",
@@ -195,22 +208,11 @@
     "Study/스프링/3. MVC/26. 스프링에서 타입 컨버터 3 ConversionService 인터페이스.md",
     "Study/스프링/3. MVC/25. 스프링에서 타입 컨버터 2 Converter 인터페이스.md",
     "Study/스프링/3. MVC/24. 스프링에서 타입 컨버터 1.md",
-    "Study/코딩 테스트/기본 문제/기본. 홀수 값 구하기.md",
-    "Study/코딩 테스트/기본 문제/기본. 최빈값 구하기.md",
-    "Study/코딩 테스트/기본 문제/기본. 두 분수의 합을 기약 분수로 표현하기.md",
-    "Study/코딩 테스트/기본 문제/기본. 배열의 중앙값 구하기.md",
-    "Study/코딩 테스트/기본 문제/기본. 정수 배열의 각 원소를 두배로 만들기.md",
     "Study/코딩 테스트/기본 문제/문자열의 숫자들 더하기 (Character).md",
     "Study/코딩 테스트/기본 문제/대문자는 소문자로, 소문자는 대문자로 변환 (Character).md",
     "Study/스프링/3. MVC/19. API 예외 처리.md",
     "Study/스프링/3. MVC/18. 서블릿 예외 처리 인터셉터 활용법 및 스프링에서 예외 처리와 동작 원리.md",
     "Study/스프링/3. MVC/20. API 예외 처리 HandlerExceptionResolver 사용.md",
-    "Study/스프링/3. MVC/21.  API 예외 처리 ExceptionResolver 예외 처리.md",
-    "Study/스프링/3. MVC/22. API 예외 처리  @ExceptionHandler.md",
-    "Study/스프링/3. MVC/23.  API 예외 처리 @ControllerAdvice로 @ExceptionHandler 예외 처리 그룹화 나누기.md",
-    "Study/스프링/3. MVC/3. 타임리프(Thymeleaf)를 활용한 폼 처리 예시 (체크박스 및 셀렉트 박스 포함).md",
-    "Study/스프링/3. MVC/2. 타임리프(Thymeleaf) 하기전 프로젝트 기본 설정.md",
-    "Study/스프링/3. MVC/1. 타임리프(Thymeleaf) 소개.md",
     "Study/Java/이미지/예외 클래스 계층 구조.png",
     "Study/스프링/3. MVC",
     "Study/스프링/2. MVC",
@@ -225,7 +227,6 @@
     "Study/Java/이미지",
     "Study/기초 지식 강화/이미지/tcp-handshake-1.png",
     "Study/이미지/CICD.png",
-    "Study/Java/2. Java 중급",
     "Study/스프링/이미지/인텔리제이 기본설정2.png",
     "Study/스프링/이미지/인텔리제이 기본설정1.png",
     "스크린샷 2024-10-01 오후 8.03.32.png",

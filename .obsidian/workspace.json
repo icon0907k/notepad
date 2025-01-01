@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8e72eb473913bf2",
+        "id": "60e936e8d25de85f",
         "type": "tabs",
         "children": [
           {
-            "id": "55d22e03e1f88e8d",
+            "id": "a9f8b0c99753a632",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타/옵시디언 Git 플러그인 명령어.md",
+                "file": "project/퇴근후 백만장자/이슈/ECS 블루,그린 배포 후 자동으로 이전 대상 그룹 삭제되고 추가하는 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "옵시디언 Git 플러그인 명령어"
+              "title": "ECS 블루,그린 배포 후 자동으로 이전 대상 그룹 삭제되고 추가하는 방법"
             }
           }
         ]
@@ -183,14 +183,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "55d22e03e1f88e8d",
+  "active": "a9f8b0c99753a632",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "기타/맥북 Java 설치 가이드.md",
-    "기타/옵시디언 Git 플러그인 명령어.md",
-    "project/퇴근후 백만장자/환경구성/AWS 계정 관리.md",
+    "project/퇴근후 백만장자/환경구성/프로젝트 환경구성.md",
+    "project/퇴근후 백만장자/이슈/ECS 블루,그린 배포 후 자동으로 이전 대상 그룹 삭제되고 추가하는 방법.md",
+    "project/퇴근후 백만장자/이슈",
+    "project/이슈/ECS 블루,그린 배포 후 자동으로 이전 대상 그룹 삭제되고 추가하는 방법.md",
+    "project/이슈",
+    "이슈/ECS 블루,그린 배포 후 자동으로 이전 대상 그룹 삭제되고 추가하는 방법.md",
+    "이슈",
     "기타/Roadmap.md",
+    "project/퇴근후 백만장자/환경구성/AWS 계정 관리.md",
     "Study/코딩 테스트/기본 문제/기본. 홀수 값 구하기.md",
     "Study/코딩 테스트/기본 문제/기본. 최빈값 구하기.md",
     "Study/코딩 테스트/기본 문제/기본. 정수 배열의 각 원소를 두배로 만들기.md",
@@ -198,20 +201,13 @@
     "Study/코딩 테스트/기본 문제/기본. 두 분수의 합을 기약 분수로 표현하기.md",
     "Study/코딩 테스트/기본 문제",
     "Study/코딩 테스트",
-    "project/퇴근후 백만장자/환경구성/프로젝트 환경구성.md",
->>>>>>> c68d88c (작업 중인 변경 사항 커밋)
     "기타/깃허브 저장소 첫 커밋, 초기화.md",
-    "project/퇴근후 백만장자/환경구성/AWS 계정 관리.md",
-    "project/퇴근후 백만장자/환경구성/프로젝트 환경구성.md",
-    "기타/맥북 git 설치, 옵시디언 연동 및 커밋.md",
-<<<<<<< HEAD
-    "기타/맥북 Java 설치 가이드.md",
-    "기타/옵시디언 Git 플러그인 명령어.md",
-    "기타/Roadmap.md",
-=======
->>>>>>> c68d88c (작업 중인 변경 사항 커밋)
-    "project/퇴근후 백만장자/환경구성",
+    "project/퇴근후 백만장자/환경구성/AWS 환경 구성 실제 실행 단계.md",
     "무제 폴더",
+    "기타/옵시디언 Git 플러그인 명령어.md",
+    "기타/맥북 Java 설치 가이드.md",
+    "기타/맥북 git 설치, 옵시디언 연동 및 커밋.md",
+    "project/퇴근후 백만장자/환경구성",
     "project/퇴근후 백만장자",
     "project",
     "Study/Java/3. Java 고급/3. 스레드 사용 시점 리스트.md",
@@ -223,23 +219,8 @@
     "Study/스프링/4. 고급/4. 예제 프로젝트 4 (V2).md",
     "Study/스프링/1. 기본/11. 빈 생명주기 콜백.md",
     "Study/스프링/1. 기본/9. 조회한 빈이 모두 필요할 때 (전략 패턴).md",
-    "Study/스프링/1. 기본/8. 조회 빈이 2개 이상인 경우 문제.md",
-    "Study/스프링/1. 기본/6. 컴포넌트 스캔과 의존관계 자동 주입.md",
-    "Study/스프링/1. 기본/5. @ComponentScan.md",
-    "Study/스프링/1. 기본/3. 싱글톤 컨테이너.md",
-    "Study/스프링/1. 기본/3. @Configuration.md",
-    "Study/스프링/1. 기본/2. 스프링 컨테이너 BeanFactory와 ApplicationContext.md",
-    "Study/스프링/1. 기본/1. 제어의 역전 IoC,의존관계 주입 DI.md",
-    "Study/스프링/4. 고급/1. 스프링 프레임워크의 기본 흐름 이해를 위한 예제 프로젝트 1 (V0).md",
-    "Study/스프링/4. 고급/3. 예제 프로젝트 3 (V2).md",
-    "Study/스프링/1. 기본/13. 빈 스코프 (Bean Scope) request,  session, application.md",
     "Study/스프링/4. 고급",
     "Study/Java/이미지/예외 클래스 계층 구조.png",
-    "Study/스프링/3. MVC",
-    "Study/스프링/2. MVC",
-    "Study/HTTP",
-    "Study/HTTP",
-    "Study/객체지향 설계",
     "Study/Java/이미지/리스트 인터페이스 구조.png",
     "Study/Java/이미지/예외 계층 구조.png",
     "Study/기초 지식 강화/이미지/tcp-handshake-1.png",

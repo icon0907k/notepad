@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/퇴근후 백만장자/이슈/ECS 블루,그린 배포 후 자동으로 이전 대상 그룹 삭제되고 추가하는 방법.md",
+                "file": "project/퇴근후 백만장자/환경구성/프로젝트 환경구성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ECS 블루,그린 배포 후 자동으로 이전 대상 그룹 삭제되고 추가하는 방법"
+              "title": "프로젝트 환경구성"
+            }
+          },
+          {
+            "id": "6f52442b770f7def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "project/퇴근후 백만장자/환경구성/프로젝트 풀더 구조 임시.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "프로젝트 풀더 구조 임시"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,9 +198,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a9f8b0c99753a632",
+  "active": "6f52442b770f7def",
   "lastOpenFiles": [
     "project/퇴근후 백만장자/환경구성/프로젝트 환경구성.md",
+    "project/퇴근후 백만장자/환경구성/프로젝트 풀더 구조 임시.md",
     "project/퇴근후 백만장자/이슈/ECS 블루,그린 배포 후 자동으로 이전 대상 그룹 삭제되고 추가하는 방법.md",
     "project/퇴근후 백만장자/이슈",
     "project/이슈/ECS 블루,그린 배포 후 자동으로 이전 대상 그룹 삭제되고 추가하는 방법.md",
